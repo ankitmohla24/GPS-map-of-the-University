@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roadsv3" id="Roadsv3">
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="string"></SimpleField>
+	<SimpleField name="extrude" type="string"></SimpleField>
+	<SimpleField name="visibility" type="string"></SimpleField>
+	<SimpleField name="drawOrder" type="string"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roadsv3</name>
+  <Placemark>
+	<name>WH2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.113061,32.731337 -97.11306,32.731294 -97.113228,32.731288</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Archi_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.116407,32.730731 -97.1161,32.730733 -97.1161,32.730771</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Archi_P2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.116391,32.731815 -97.116308,32.731777 -97.116235,32.731774</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CampusCenter_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.115978,32.732282 -97.116,32.73225</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CentralLibrary_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.113289,32.729706 -97.113215,32.729701</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CooperChase_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.114906,32.733389 -97.114905,32.733329 -97.114879,32.73333</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CRB_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.113027,32.730145 -97.113024,32.730328</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CooperChase_P2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.115158,32.73339 -97.115155,32.733309 -97.115183,32.733308</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Davishall_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.11458,32.728957 -97.115221,32.728963 -97.115216,32.729024</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Davishall_P2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.116388,32.729387 -97.115581,32.729345 -97.115583,32.729303</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>ERB_P2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.112133,32.733121 -97.112219,32.73311</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>FinaArts_P2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.115578,32.731942 -97.115586,32.731563 -97.115469,32.731564</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>FineArts_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.115586,32.730652 -97.115569,32.730911 -97.115541,32.730913</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>GACB_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.114539,32.734593 -97.114365,32.73458</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>LIfeScience_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.113297,32.728658 -97.113217,32.728657</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>LifeScience_P2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.112621,32.728395 -97.112613,32.728759</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>MAC_P2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.116986,32.732506 -97.116994,32.732282 -97.117212,32.732285 -97.117211,32.732257</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>MAC_P3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.116627,32.731418 -97.117149,32.731421 -97.117155,32.731438</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Nanotech_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.115258,32.732526 -97.115304,32.732527</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Nanotech_P2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.116178,32.732587 -97.116177,32.732539 -97.116068,32.732498</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>NH_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.114377,32.733749 -97.114398,32.733663 -97.114186,32.733518 -97.113969,32.733479 -97.113953,32.73323 -97.11393,32.733107 -97.113923,32.733059 -97.113863,32.733034 -97.113853,32.732989</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>NH_P2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.114132,32.733509 -97.114213,32.733462 -97.114228,32.733085 -97.114242,32.732822 -97.114248,32.732693 -97.114214,32.732691</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>NH_P4</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.113254,32.732855 -97.113473,32.732862</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>NH_P5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.113727,32.732066 -97.113738,32.731946 -97.113326,32.731934</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>NH_P6</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.11429,32.731905 -97.113962,32.73191 -97.113952,32.732065</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>PE_P2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.118383,32.731159 -97.117918,32.731167 -97.117913,32.731123</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>PE1_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.118143,32.730677 -97.118128,32.730837 -97.118101,32.730835</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>PrestonHall_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.112877,32.730995 -97.112877,32.731166 -97.113256,32.73117</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>RansomHall_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.112878,32.731165 -97.112173,32.73114 -97.112178,32.730979</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>SciecneHall_P4</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.114295,32.730747 -97.114259,32.730745</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Sciencehall_P2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.113919,32.730999 -97.113914,32.731092 -97.114287,32.731106</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>ScienceHall_P3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.114294,32.730891 -97.114259,32.730888</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>SmartHospital_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.1164,32.730426 -97.116271,32.730423 -97.116268,32.730405 -97.1162,32.730411</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>SocialWorkComplex_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.11388,32.73374 -97.113875,32.734225 -97.113873,32.734271 -97.113705,32.734263 -97.113703,32.734298</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>TexasHall_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.115722,32.73017 -97.11572,32.729939</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Texashall_P2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.116388,32.729859 -97.116053,32.729855</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>TexasHall_P3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.116388,32.729623 -97.116043,32.729627</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>TH_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.116407,32.730606 -97.116675,32.730567 -97.116813,32.730568 -97.116817,32.730452</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>TH_P2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.117564,32.730567 -97.117314,32.73057 -97.117305,32.730458</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>UniversityHAll_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.114048,32.729271 -97.114047,32.729225</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>UniversityHall_P2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.114037,32.728814 -97.114043,32.728932</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>UV2_Path</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.118718,32.730339 -97.119042,32.730313 -97.119054,32.730367 -97.119106,32.730373 -97.119134,32.730357</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>UV2_path</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.119348,32.729921 -97.119347,32.730221 -97.119347,32.730267</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>UV3_P1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.118701,32.730115 -97.118908,32.730107</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>UV3_P2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.118699,32.73002 -97.118826,32.730021</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>UV4_path</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.120279,32.730013 -97.120278,32.73009 -97.120151,32.730093</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>AO2_P</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.121359,32.730396 -97.121362,32.730392 -97.121362,32.730391 -97.121365,32.730385 -97.121366,32.730381 -97.121366,32.730377 -97.121364,32.730373</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>AO3_P</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.121062,32.729863 -97.121062,32.729867 -97.121062,32.729872 -97.121063,32.729875 -97.121064,32.729878 -97.121064,32.729883 -97.121064,32.729886 -97.121066,32.72989 -97.121066,32.729893 -97.121066,32.729898 -97.121066,32.729903 -97.121066,32.729908 -97.121066,32.729913 -97.121067,32.729917 -97.121067,32.729921 -97.121067,32.729927 -97.121067,32.729932 -97.121067,32.729937 -97.121067,32.729942 -97.121067,32.729946 -97.121067,32.729952 -97.121067,32.729956 -97.121066,32.72996 -97.121067,32.729959 -97.121068,32.729957</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>AO4_P</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.12086,32.729874 -97.12086,32.729878 -97.12086,32.729883 -97.12086,32.729884 -97.12086,32.729891 -97.120859,32.729895 -97.120859,32.729901 -97.120859,32.729905 -97.120859,32.729911 -97.120859,32.729915 -97.120859,32.72992 -97.120859,32.729926 -97.120859,32.72993 -97.120861,32.729933 -97.120863,32.729938 -97.120864,32.729941 -97.120867,32.729946 -97.120868,32.729947</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>AO5_P</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.120249,32.730377 -97.120256,32.730377 -97.120262,32.730377 -97.120268,32.730377 -97.120272,32.730377 -97.120281,32.730377 -97.120288,32.730377 -97.120294,32.730377 -97.120301,32.730377 -97.120307,32.730377 -97.120313,32.730377 -97.120321,32.730377 -97.120328,32.730377 -97.120336,32.730377 -97.120345,32.730377 -97.120352,32.730377 -97.12036,32.730375 -97.120369,32.730375 -97.120376,32.730375 -97.120384,32.730375 -97.120393,32.730375 -97.120401,32.730375 -97.12041,32.730375 -97.120417,32.730375 -97.120425,32.730374 -97.120434,32.730374 -97.12044,32.730373 -97.120443,32.730371</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>AO6_P</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.120253,32.730538 -97.120259,32.730538 -97.120268,32.730537 -97.120274,32.730537 -97.120276,32.730537 -97.120285,32.730536 -97.120292,32.730536 -97.120299,32.730536 -97.120308,32.730536 -97.120315,32.730537 -97.120324,32.730537 -97.12033,32.730537 -97.120339,32.730537 -97.120345,32.730537 -97.120352,32.730537 -97.120358,32.730537 -97.120364,32.730537 -97.120372,32.730537 -97.120379,32.730537 -97.120388,32.730537 -97.120396,32.730537 -97.120403,32.730537 -97.120412,32.730536 -97.12042,32.730536 -97.120425,32.730533 -97.120428,32.730533 -97.12044,32.730533 -97.120441,32.730532</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Daycare_path</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.123014,32.734316 -97.123014,32.734305 -97.123014,32.734296 -97.123019,32.734285 -97.123022,32.734273 -97.123028,32.734265 -97.123028,32.734253 -97.123028,32.734249 -97.12302,32.734235 -97.123015,32.734224 -97.123012,32.734212 -97.123009,32.734199 -97.123009,32.734187 -97.123006,32.734175 -97.123002,32.734162 -97.122999,32.734152 -97.122996,32.734143 -97.122985,32.734134 -97.12297,32.734129 -97.122962,32.734126 -97.122948,32.734126 -97.122936,32.734126 -97.122916,32.734123 -97.122899,32.734122 -97.122891,32.734122 -97.122871,32.734119 -97.122854,32.734114 -97.122834,32.734109 -97.122825,32.734109 -97.122806,32.734108 -97.122787,32.734108 -97.122774,32.734106 -97.122761,32.734106 -97.122746,32.734104 -97.122736,32.734096 -97.122728,32.734089 -97.122723,32.734085 -97.122723,32.734074 -97.122726,32.734063 -97.122726,32.734054 -97.122727,32.734043 -97.122727,32.734036 -97.122727,32.734025 -97.122727,32.734012 -97.122727,32.734001 -97.122727,32.733989 -97.122732,32.733925</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>MeadowRun_path</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.121688,32.731209 -97.121684,32.731209 -97.121678,32.731209 -97.121675,32.731209 -97.121669,32.731209 -97.121664,32.731209 -97.121658,32.731209 -97.121652,32.731209 -97.121647,32.731209 -97.121641,32.731209 -97.121634,32.731209 -97.121631,32.731209 -97.121623,32.731207 -97.121618,32.731207 -97.12161,32.731206 -97.1216,32.731205 -97.121598,32.731205 -97.121592,32.731204 -97.121585,32.731204 -97.121583,32.731203 -97.121576,32.731201 -97.121574,32.731201 -97.121567,32.7312 -97.121562,32.7312 -97.121557,32.7312 -97.121553,32.731201 -97.121549,32.7312 -97.121544,32.731199</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>MeadowRun1_path</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.12086,32.730877 -97.12086,32.730883 -97.120859,32.730887 -97.120859,32.730894 -97.120856,32.730901 -97.120853,32.730906 -97.120853,32.730907 -97.120847,32.730916 -97.120847,32.730922 -97.120849,32.730927 -97.120851,32.730932 -97.120854,32.730937 -97.120854,32.730942 -97.120854,32.730946</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>SwiftCentre_path</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.120667,32.733773 -97.120673,32.733777 -97.120676,32.733779 -97.120684,32.733784 -97.120689,32.733788 -97.120693,32.733791 -97.120697,32.733795 -97.120701,32.733799 -97.120706,32.733804 -97.120713,32.733808 -97.120721,32.733813 -97.120726,32.733817 -97.120731,32.733821 -97.120735,32.733825 -97.120738,32.733827 -97.120745,32.73383 -97.120749,32.733834 -97.120754,32.733838 -97.120764,32.733839 -97.120769,32.733841 -97.120772,32.733845 -97.120772,32.733847 -97.120779,32.733854 -97.120782,32.733859 -97.120786,32.733863 -97.12079,32.733867 -97.120794,32.733869 -97.120801,32.733872 -97.120806,32.733875 -97.120811,32.733876 -97.120817,32.733881 -97.120823,32.733883 -97.12083,32.733887 -97.120835,32.733888 -97.120838,32.73389 -97.120843,32.733891 -97.120846,32.733893</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>WH1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.112683,32.731901 -97.112773,32.7319</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>WH3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.112399,32.731423 -97.112157,32.731426</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>GH</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.11382,32.731705 -97.113817,32.731581</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>NH</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.113436,32.732455 -97.11325,32.732453</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>ERB1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.113097,32.733252 -97.113093,32.733226 -97.113234,32.733226</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>SH</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.112856,32.732222 -97.112837,32.732097</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CRB2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.113133,32.730436 -97.11327,32.730437</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>PH</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.112032,32.730327 -97.11202,32.730141</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CH1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.112408,32.730633 -97.112405,32.730609 -97.11326,32.730633</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CLGH1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.111661,32.730947 -97.111657,32.731138</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CLGH2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.111484,32.730946 -97.11149,32.731136</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>BZ1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.110885,32.730825 -97.111031,32.730827</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>HC</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.110873,32.730467 -97.111041,32.730458</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>GC1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.110667,32.733109 -97.11067,32.733019 -97.110992,32.733024</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>GC2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.110683,32.733531 -97.110683,32.733695</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>MS</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.110018,32.733266 -97.109846,32.733248</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>WC</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.110815,32.732622 -97.110824,32.732541 -97.111001,32.732542</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>OL</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.110617,32.73289 -97.110998,32.732893</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>OL1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.110193,32.732842 -97.109859,32.732833</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>BSRE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.109568,32.733551 -97.109674,32.733559</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>PG</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.107974,32.732991 -97.10872,32.732989</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>PG3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.107464,32.732956 -97.107207,32.732958</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>VH2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.108581,32.73253 -97.108731,32.73253</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>VH1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.108584,32.731584 -97.108743,32.731585</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CP1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.108286,32.730999 -97.108287,32.731098 -97.108773,32.731099</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>PH1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.111818,32.728939 -97.11197,32.728825</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>PH2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.11142,32.728606 -97.111529,32.728487 -97.111531,32.728368</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>MPG</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.112018,32.729586 -97.112211,32.729582</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>MPG2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.111186,32.729354 -97.111039,32.729354</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>TH1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.111457,32.730009 -97.11146,32.730159</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>BB1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.110577,32.729327 -97.110585,32.729187</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>BB2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.110753,32.72964 -97.111056,32.729631</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>BB3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.110894,32.730008 -97.111049,32.730009</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>BB4</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.110066,32.72996 -97.109886,32.729959</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>WB</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.126141,32.726746 -97.126324,32.726745</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>ArtCenter</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.12421,32.728591 -97.123659,32.728586</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>OCB</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.124619,32.729461 -97.125165,32.729455</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Police</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.12458,32.730601 -97.124635,32.730604 -97.124635,32.730706</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Stadium1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.12597,32.729769 -97.125135,32.72977</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Directions from 606 UTA Blvd, Arlington, TX 76010, USA to Arlington, TX 76010, USA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.11328,32.73373 -97.11322,32.73373 -97.11324,32.73301 -97.11325,32.73258 -97.11325,32.73247 -97.11326,32.73211 -97.11321,32.73204 -97.1132,32.73201 -97.11319,32.73192 -97.1132,32.73163 -97.11321,32.73157 -97.11323,32.73125 -97.11323,32.73116 -97.11328,32.73026 -97.11328,32.73015 -97.11328,32.73013 -97.11401,32.73012 -97.11434,32.73012 -97.11433,32.73031 -97.11417,32.7303 -97.1139,32.7303 -97.11388,32.7303 -97.11385,32.73029 -97.11383,32.73028 -97.1138,32.73027 -97.11328,32.73026 -97.11323,32.73116 -97.11214,32.73115 -97.11186,32.73114 -97.11171,32.73114 -97.11111,32.73112 -97.11102,32.73112 -97.11103,32.73062 -97.11104,32.73051 -97.11104,32.73015 -97.11105,32.7292 -97.11104,32.73015 -97.11188,32.73016 -97.11195,32.73016 -97.11203,32.73014 -97.11209,32.73013 -97.11218,32.73008 -97.11218,32.73006 -97.11217,32.73004 -97.11217,32.73002 -97.11217,32.73 -97.11217,32.72999 -97.11218,32.72998 -97.11221,32.72993 -97.11219,32.72987 -97.11219,32.72985 -97.11219,32.72968 -97.1122,32.72962 -97.1122,32.72937 -97.11219,32.7292 -97.11105,32.7292 -97.11219,32.7292 -97.1122,32.72937 -97.1122,32.72962 -97.11219,32.72968 -97.1124,32.72968 -97.11255,32.72968 -97.1124,32.72968 -97.11219,32.72968 -97.1122,32.72962 -97.11226,32.72958 -97.11229,32.72956 -97.1124,32.72944 -97.11242,32.72942 -97.11243,32.72942 -97.11244,32.72941 -97.11245,32.72941 -97.11246,32.72941 -97.11248,32.72941 -97.1126,32.72941 -97.11263,32.72942 -97.11264,32.72942 -97.11265,32.72942 -97.11265,32.72943 -97.11265,32.72945 -97.11265,32.72997 -97.11255,32.72997 -97.11254,32.72997 -97.11253,32.72997 -97.11252,32.72997 -97.11252,32.72998 -97.11252,32.72999 -97.11251,32.72999 -97.11251,32.73002 -97.11251,32.73004 -97.11251,32.73006 -97.11251,32.73008 -97.11248,32.73014 -97.11236,32.73013 -97.11232,32.73013 -97.1123,32.73014 -97.11229,32.73013 -97.11226,32.73013 -97.11224,32.73012 -97.11222,32.73011 -97.11221,32.7301 -97.1122,32.73009 -97.11218,32.73008 -97.11209,32.73013 -97.11203,32.73014 -97.11195,32.73016 -97.11188,32.73016 -97.11104,32.73015 -97.11053,32.73015 -97.10989,32.73014 -97.10933,32.73014 -97.10875,32.73013 -97.10875,32.73081 -97.10875,32.7311 -97.10919,32.73111 -97.10989,32.7311 -97.10989,32.73085 -97.10989,32.73014 -97.10992,32.72918 -97.11008,32.72918 -97.11089,32.7292 -97.11105,32.7292 -97.11104,32.73015 -97.11053,32.73015 -97.11054,32.73061 -97.11066,32.73062 -97.11067,32.73062 -97.11068,32.73063 -97.11069,32.73064 -97.11071,32.73065 -97.11072,32.73068 -97.11073,32.73071 -97.11073,32.73073 -97.11073,32.73082 -97.11073,32.73083 -97.11072,32.73084 -97.11071,32.73084 -97.11055,32.73083 -97.11053,32.73084 -97.1105,32.73084 -97.11048,32.73084 -97.11047,32.73085 -97.11046,32.73085 -97.10989,32.73085 -97.11046,32.73085 -97.11047,32.73085 -97.11048,32.73084 -97.1105,32.73084 -97.1105,32.73095 -97.1105,32.73096 -97.1105,32.73097 -97.11051,32.73097 -97.11052,32.73098 -97.11053,32.73098 -97.11055,32.73098 -97.11073,32.73097 -97.11075,32.73097 -97.11076,32.73098 -97.11077,32.73099 -97.11077,32.73101 -97.11077,32.73111 -97.11051,32.73111 -97.10989,32.7311 -97.11051,32.73111 -97.11077,32.73111 -97.11102,32.73112 -97.11111,32.73112 -97.11112,32.73126 -97.11111,32.73112 -97.11102,32.73112 -97.11077,32.73111 -97.11051,32.73111 -97.11051,32.73126 -97.11051,32.73111 -97.11077,32.73111 -97.11102,32.73112 -97.11111,32.73112 -97.11171,32.73114 -97.11171,32.73133 -97.11171,32.73114 -97.11186,32.73114 -97.11185,32.73064 -97.11219,32.73064 -97.11185,32.73064 -97.11103,32.73062 -97.11102,32.73112 -97.11077,32.73111 -97.11051,32.73111 -97.10989,32.7311 -97.10988,32.73161 -97.10987,32.73207 -97.10988,32.73161 -97.11034,32.73162</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Directions from 200 UTA Blvd, Arlington, TX 76010, USA to 140 E Mitchell St, Arlington, TX 76010, USA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.10862,32.73374 -97.10817,32.73374 -97.10719,32.73374 -97.1072,32.73359 -97.10721,32.73298 -97.10723,32.73228 -97.10722,32.73204 -97.10724,32.73129 -97.10724,32.73108 -97.10724,32.73099 -97.1072,32.73076 -97.10719,32.73066 -97.10717,32.7306 -97.10715,32.73053 -97.10701,32.73009 -97.1069,32.72974 -97.10675,32.72932 -97.10651,32.7286 -97.1065,32.72856 -97.10648,32.72852 -97.10648,32.7285 -97.10647,32.72847 -97.10646,32.72834 -97.10664,32.72834 -97.10677,32.72833 -97.1069,32.72832 -97.10698,32.72831 -97.10706,32.72829 -97.10715,32.72827 -97.10722,32.72826 -97.10731,32.72823 -97.1074,32.7282 -97.10749,32.72817 -97.10759,32.72813 -97.10772,32.72807 -97.10829,32.72779 -97.10878,32.72757 -97.10878,32.72789 -97.10878,32.72832 -97.10877,32.72891 -97.10877,32.72916 -97.10944,32.72918 -97.10992,32.72918 -97.10992,32.72837 -97.10993,32.72789 -97.10994,32.72761 -97.10994,32.72751 -97.10995,32.72719 -97.10968,32.72723 -97.10941,32.72731 -97.10924,32.72737 -97.10914,32.72741 -97.109,32.72746 -97.10878,32.72757 -97.10829,32.72779 -97.10772,32.72807 -97.10767,32.72799 -97.10766,32.72797 -97.10765,32.72795 -97.10765,32.72783 -97.10766,32.72774 -97.10768,32.72716 -97.10761,32.72715 -97.10759,32.72714 -97.10756,32.72714 -97.10752,32.72714 -97.10706,32.72714 -97.10705,32.72754 -97.10706,32.72714 -97.10752,32.72714 -97.10756,32.72714 -97.10759,32.72714 -97.10761,32.72715 -97.10768,32.72716 -97.10766,32.72774 -97.10765,32.72783 -97.10765,32.72795 -97.10766,32.72797 -97.10767,32.72799 -97.10772,32.72807 -97.10759,32.72813 -97.10749,32.72817 -97.1074,32.7282 -97.10731,32.72823 -97.10722,32.72826 -97.10715,32.72827 -97.10706,32.72829 -97.10698,32.72831 -97.1069,32.72832 -97.10677,32.72833 -97.10664,32.72834 -97.10646,32.72834 -97.10637,32.72834</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Directions from 330-340 W Nedderman Dr, Arlington, TX 76013, USA to 702 Planetarium Pl, Arlington, TX 76010, USA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.11657,32.73371 -97.11657,32.73384 -97.11767,32.73387 -97.11767,32.73401 -97.1178,32.73401 -97.1178,32.73428 -97.11754,32.73427 -97.11716,32.73427 -97.11683,32.73426 -97.11672,32.73424 -97.11665,32.73423 -97.11658,32.73421 -97.1165,32.73419 -97.11626,32.73413 -97.11581,32.73399 -97.11555,32.7339 -97.1154,32.73386 -97.11529,32.73383 -97.11507,32.73379 -97.11506,32.73379 -97.1149,32.73378 -97.11454,32.73375 -97.11413,32.73375 -97.11393,32.73374 -97.11347,32.73373 -97.11322,32.73373 -97.11324,32.73301 -97.11418,32.73301 -97.11421,32.73301 -97.11422,32.73301 -97.11423,32.73301 -97.11424,32.733 -97.11425,32.733 -97.11425,32.73299 -97.11426,32.73297 -97.11426,32.73296 -97.11426,32.73292 -97.11427,32.73269 -97.11428,32.73257 -97.11429,32.73252 -97.11433,32.73244 -97.11435,32.7324 -97.11435,32.73236 -97.11435,32.7323 -97.11434,32.73222 -97.11432,32.73215 -97.11423,32.73197 -97.11428,32.7319 -97.11429,32.731 -97.11434,32.73099 -97.11435,32.73099 -97.11437,32.731 -97.11438,32.73101 -97.11439,32.73101 -97.11439,32.73103 -97.11438,32.73112 -97.11439,32.73112 -97.11439,32.73113 -97.1144,32.73113 -97.11441,32.73113 -97.11442,32.73112 -97.11442,32.73111 -97.11443,32.73081 -97.11443,32.73079 -97.11443,32.73077 -97.11445,32.73073 -97.11446,32.73071 -97.11447,32.73069 -97.11444,32.73069 -97.11443,32.7307 -97.11442,32.7307 -97.11441,32.73071 -97.11441,32.73073 -97.11438,32.73078 -97.11438,32.73079 -97.11437,32.73079 -97.11436,32.7308 -97.11435,32.7308 -97.11433,32.7308 -97.1143,32.7308 -97.11429,32.731 -97.11428,32.7319 -97.11423,32.73197 -97.11415,32.73194 -97.1141,32.73193 -97.11404,32.73192 -97.1134,32.73193 -97.11333,32.73193 -97.11319,32.73192 -97.1132,32.73163 -97.11321,32.73157 -97.1137,32.73158 -97.11383,32.73158 -97.1137,32.73158 -97.11356,32.7317 -97.11349,32.73175 -97.1134,32.73182 -97.11338,32.73184 -97.11337,32.73186 -97.11333,32.73193 -97.1134,32.73193 -97.11339,32.73197 -97.11339,32.73198 -97.11337,32.732 -97.11334,32.73204 -97.11326,32.73211 -97.11295,32.7321 -97.11284,32.7321 -97.11243,32.73209 -97.11215,32.7321 -97.11218,32.73181 -97.11217,32.73162 -97.11214,32.73115 -97.11186,32.73114 -97.11171,32.73114 -97.11171,32.73133 -97.11175,32.73161 -97.11202,32.73162 -97.11217,32.73162 -97.11218,32.73181 -97.11243,32.73209 -97.11284,32.7321 -97.11279,32.73199 -97.11278,32.73197 -97.11277,32.73194 -97.11277,32.73191 -97.11278,32.73188 -97.11279,32.73185 -97.11282,32.73181 -97.11285,32.73177 -97.1129,32.73172 -97.11294,32.73169 -97.11297,32.73167 -97.11301,32.73166 -97.11306,32.73165 -97.1132,32.73163 -97.11319,32.73192 -97.1132,32.73201 -97.11321,32.73204 -97.11326,32.73211 -97.11325,32.73247 -97.11325,32.73258 -97.1131,32.73258 -97.1127,32.73259 -97.11276,32.73265 -97.11279,32.73266 -97.11283,32.73269 -97.11296,32.73276 -97.11302,32.73281 -97.11304,32.73283 -97.11305,32.73285 -97.11311,32.73295 -97.11313,32.73298 -97.11314,32.73299 -97.11318,32.733 -97.11324,32.73301 -97.11325,32.73258 -97.1131,32.73258 -97.11304,32.73266 -97.11301,32.7327 -97.11296,32.73276 -97.1126,32.7332 -97.11296,32.73276 -97.11283,32.73269 -97.11279,32.73266 -97.11276,32.73265 -97.1127,32.73259 -97.11215,32.7326 -97.11214,32.73265 -97.112,32.73265 -97.11193,32.73264 -97.11176,32.73264 -97.11158,32.73263 -97.11138,32.73264 -97.11119,32.73263 -97.111,32.73263 -97.111,32.73251 -97.111,32.73237 -97.11101,32.73223 -97.11101,32.73208 -97.11039,32.73208 -97.1104,32.73192 -97.11043,32.7316 -97.11049,32.73156 -97.11051,32.73126 -97.11051,32.73111 -97.11077,32.73111 -97.11102,32.73112 -97.11103,32.73062 -97.11104,32.73051 -97.11104,32.73015 -97.11188,32.73016 -97.11195,32.73016 -97.11203,32.73014 -97.11209,32.73013 -97.11218,32.73008 -97.1122,32.73009 -97.11221,32.7301 -97.11222,32.73011 -97.11224,32.73012 -97.11226,32.73013 -97.11229,32.73013 -97.1123,32.73014 -97.11232,32.73013 -97.11236,32.73013 -97.11248,32.73014 -97.11265,32.73014 -97.1128,32.73014 -97.1128,32.73007 -97.1128,32.73006 -97.1128,32.73005 -97.11279,32.73005 -97.11279,32.73004 -97.11278,32.73003 -97.11276,32.73002 -97.11265,32.72997</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Directions from 1300 W 2nd St, Arlington, TX 76013, USA to 1505 Freeman Ct, Arlington, TX 76013, USA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.12514,32.73069 -97.12514,32.73049 -97.12515,32.7296 -97.12516,32.72841 -97.1251,32.72841 -97.12471,32.72841 -97.12468,32.72841 -97.12471,32.72841 -97.1251,32.72841 -97.12516,32.72841 -97.12516,32.72803 -97.1248,32.72803 -97.12444,32.72803 -97.1248,32.72803 -97.12516,32.72803 -97.12517,32.728 -97.12518,32.72798 -97.1252,32.72796 -97.12524,32.72791 -97.12519,32.72787 -97.12518,32.72785 -97.12517,32.72783 -97.12516,32.7278 -97.12516,32.72778 -97.12517,32.72745 -97.12517,32.72728 -97.12507,32.72706 -97.125,32.72691 -97.12498,32.72665 -97.12457,32.72666 -97.12438,32.72673 -97.12429,32.72675 -97.12426,32.72675 -97.12418,32.72676 -97.12398,32.72676 -97.12368,32.72676 -97.12368,32.72634 -97.12369,32.72607 -97.12387,32.7261 -97.12413,32.72612 -97.12416,32.72612 -97.12433,32.72612 -97.1244,32.72612 -97.12452,32.72611 -97.12478,32.72609 -97.1249,32.72609 -97.12515,32.72609 -97.12534,32.72609 -97.12544,32.72609 -97.12579,32.7261 -97.12609,32.7261 -97.1263,32.72609 -97.12636,32.72609 -97.12645,32.72608 -97.12656,32.72607 -97.12664,32.72606 -97.12674,32.72604 -97.12685,32.72602 -97.12697,32.72599 -97.127,32.72598 -97.12704,32.72597 -97.12709,32.72596 -97.1272,32.72593 -97.12728,32.72592 -97.12737,32.72591 -97.12748,32.7259 -97.12762,32.72589 -97.1276,32.7263 -97.12759,32.72776 -97.12759,32.72789 -97.12724,32.72788 -97.12627,32.72787 -97.12537,32.72787 -97.12533,32.72787 -97.12531,32.72788 -97.12528,32.72788 -97.12526,32.7279 -97.12524,32.72791 -97.12519,32.72787 -97.12518,32.72785 -97.12517,32.72783 -97.12516,32.7278 -97.12516,32.72778 -97.12517,32.72745 -97.12517,32.72728 -97.12556,32.72727 -97.12574,32.72727 -97.12606,32.72728 -97.12628,32.72728 -97.12634,32.72628 -97.1263,32.72609 -97.12609,32.7261 -97.12579,32.7261 -97.12544,32.72609 -97.12534,32.72609 -97.12515,32.72609 -97.1249,32.72609 -97.12478,32.72609 -97.12452,32.72611 -97.1244,32.72612 -97.12433,32.72612 -97.12416,32.72612 -97.12413,32.72612 -97.12387,32.7261 -97.12369,32.72607 -97.12368,32.72634 -97.12368,32.72676 -97.12368,32.72699 -97.12368,32.72814 -97.12368,32.72835 -97.12368,32.72839 -97.12367,32.72937 -97.12367,32.72959 -97.12392,32.72958 -97.12409,32.72959 -97.1243,32.72959 -97.12464,32.72959 -97.12495,32.72959 -97.12515,32.7296 -97.12516,32.72841 -97.12516,32.72803 -97.12517,32.728 -97.12518,32.72798 -97.1252,32.72796 -97.12524,32.72791 -97.12526,32.7279 -97.12528,32.72788 -97.12531,32.72788 -97.12533,32.72787 -97.12537,32.72787 -97.12627,32.72787 -97.12724,32.72788 -97.12734,32.72788</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Directions from 1000-1098 UTA Blvd, Arlington, TX 76013, USA to 501 W Nedderman Dr, Arlington, TX 76013, USA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.12046,32.73432 -97.12042,32.73432 -97.12054,32.73385 -97.12056,32.73376 -97.12057,32.73372 -97.12057,32.73368 -97.12057,32.73364 -97.12059,32.73337 -97.12059,32.73333 -97.1206,32.73329 -97.12062,32.73323 -97.12078,32.73319 -97.12079,32.73285 -97.12079,32.73276 -97.12069,32.73276 -97.12059,32.73277 -97.12058,32.73276 -97.12056,32.73276 -97.12054,32.73275 -97.12052,32.73274 -97.12051,32.73273 -97.1205,32.73271 -97.12049,32.73268 -97.12049,32.73248 -97.12049,32.73245 -97.1205,32.73242 -97.12051,32.73238 -97.12053,32.73235 -97.12056,32.73233 -97.12058,32.73232 -97.12061,32.73232 -97.1207,32.73232 -97.1209,32.73232 -97.1209,32.73177 -97.12091,32.73139 -97.12091,32.73131 -97.12091,32.73128 -97.12089,32.73126 -97.12086,32.73124 -97.12083,32.73122 -97.12078,32.73122 -97.1207,32.73122 -97.12064,32.73117 -97.12063,32.73115 -97.12062,32.73114 -97.12061,32.73111 -97.12061,32.73109 -97.12061,32.73085 -97.1206,32.73079 -97.1206,32.73072 -97.1203,32.73074 -97.11986,32.73075 -97.11984,32.73075 -97.11924,32.73075 -97.11923,32.73075 -97.11896,32.73076 -97.11896,32.73083 -97.11895,32.731 -97.11894,32.73118 -97.11894,32.73128 -97.11894,32.7313 -97.11895,32.73131 -97.11896,32.73132 -97.11898,32.73133 -97.11901,32.73133 -97.12042,32.73134 -97.12044,32.73133 -97.12046,32.73133 -97.12047,32.73133 -97.12048,32.73132 -97.12048,32.73131 -97.12049,32.73129 -97.12048,32.73118 -97.11894,32.73118 -97.11895,32.731 -97.12036,32.731 -97.1204,32.731 -97.12044,32.731 -97.12046,32.73101 -97.12047,32.73102 -97.12048,32.73103 -97.12049,32.73105 -97.12049,32.73108 -97.12048,32.73118 -97.11894,32.73118 -97.11895,32.731 -97.11896,32.73083 -97.11982,32.73082 -97.12028,32.73081 -97.1206,32.73079 -97.12061,32.73085 -97.12061,32.73109 -97.12061,32.73111 -97.12062,32.73114 -97.12063,32.73115 -97.12064,32.73117 -97.1207,32.73122 -97.1207,32.73232 -97.12069,32.73276 -97.12079,32.73276 -97.1209,32.73276 -97.1209,32.73232 -97.1209,32.73177 -97.12099,32.7318 -97.12103,32.73181 -97.12109,32.73184 -97.12111,32.73187 -97.12111,32.73188 -97.12111,32.7319 -97.12111,32.73192 -97.12108,32.73232 -97.12109,32.73272 -97.12108,32.73273 -97.12107,32.73275 -97.12106,32.73276 -97.12105,32.73277 -97.12103,32.73277 -97.12102,32.73277 -97.121,32.73277 -97.1209,32.73276 -97.12079,32.73276 -97.12079,32.73285 -97.12078,32.73319 -97.12062,32.73323 -97.1206,32.73329 -97.12059,32.73333 -97.12059,32.73337 -97.12057,32.73364 -97.12057,32.73368 -97.12057,32.73372 -97.12056,32.73376 -97.12054,32.73385 -97.12042,32.73432 -97.12032,32.73432 -97.11907,32.7343 -97.11906,32.73449 -97.11906,32.73484 -97.11906,32.73505 -97.11904,32.73578 -97.11841,32.73578 -97.11818,32.73578 -97.1182,32.73504 -97.11821,32.73428 -97.1178,32.73428 -97.11754,32.73427 -97.11716,32.73427 -97.11683,32.73426 -97.11676,32.73505 -97.11675,32.73528 -97.11676,32.73576 -97.11612,32.73575 -97.11575,32.73573 -97.11574,32.73555 -97.11573,32.73553 -97.11573,32.73552 -97.11572,32.73552 -97.11571,32.73551 -97.11569,32.7355 -97.11548,32.73547 -97.11546,32.73547 -97.11543,32.73546 -97.1154,32.73545 -97.11539,32.73543 -97.11538,32.73542 -97.11537,32.73539 -97.11537,32.73537 -97.1154,32.73428 -97.11554,32.73429 -97.11618,32.7343 -97.11626,32.73413 -97.11632,32.73401 -97.11634,32.73395 -97.11636,32.73388 -97.11636,32.73384 -97.11619,32.7338 -97.11614,32.73379 -97.11607,32.73378 -97.11597,32.73376 -97.11587,32.73374 -97.1157,32.73367 -97.11564,32.73364 -97.11552,32.73357 -97.11527,32.73357 -97.11524,32.73357 -97.11522,32.73356 -97.11519,32.73355 -97.11517,32.73354 -97.11516,32.73352 -97.11515,32.73351 -97.11515,32.73349 -97.11514,32.73339 -97.11529,32.73339 -97.11532,32.73339 -97.11534,32.73338 -97.11534,32.73337 -97.11535,32.73335 -97.11535,32.73333 -97.11536,32.73313 -97.11536,32.73312 -97.11536,32.73311 -97.11535,32.73309 -97.11534,32.73309 -97.11533,32.73308 -97.11532,32.73307 -97.11527,32.73305 -97.11493,32.73305 -97.11527,32.73305 -97.11526,32.73301 -97.11526,32.73298 -97.11526,32.7327 -97.11526,32.7326 -97.11526,32.73252 -97.1148,32.73252 -97.1148,32.73242 -97.11481,32.7324 -97.11481,32.73238 -97.11483,32.73236 -97.11485,32.73235 -97.11487,32.73235 -97.11526,32.73235 -97.11526,32.73228 -97.11526,32.73218 -97.11487,32.73219 -97.11486,32.73219 -97.11485,32.73218 -97.11484,32.73218 -97.11483,32.73218 -97.11482,32.73216 -97.11481,32.73215 -97.11481,32.73208 -97.11481,32.73206 -97.11482,32.73204 -97.11483,32.73204 -97.11483,32.73203 -97.11484,32.73203 -97.11486,32.73202 -97.11487,32.73202 -97.11527,32.73203 -97.11531,32.73198 -97.11534,32.73196 -97.11536,32.73195 -97.11537,32.73195 -97.11539,32.73195 -97.11586,32.73194 -97.11639,32.73194</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Directions from 615 W Abram St, Arlington, TX 76010, USA to 166-198 S Cooper St, Arlington, TX 76013, USA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.11457,32.73571 -97.11464,32.73571 -97.11522,32.73573 -97.11575,32.73573 -97.11612,32.73575 -97.11676,32.73576 -97.11685,32.73576 -97.11756,32.73578 -97.11818,32.73578 -97.11841,32.73578 -97.11904,32.73578 -97.11983,32.73579 -97.12034,32.73579 -97.12053,32.73579 -97.12079,32.73579 -97.12118,32.73579 -97.12163,32.7358 -97.1229,32.7358 -97.12352,32.73581 -97.12352,32.7353 -97.12352,32.73482 -97.12352,32.73463 -97.12351,32.73431 -97.12303,32.73432 -97.12275,32.73432 -97.12251,32.73433 -97.12228,32.73435 -97.12218,32.73435 -97.12163,32.73434 -97.12163,32.73408 -97.12165,32.73351 -97.12165,32.73341 -97.12165,32.73335 -97.12165,32.73316 -97.12166,32.73291 -97.12167,32.73267 -97.12167,32.73254 -97.12167,32.73239 -97.12167,32.73234 -97.12168,32.73198 -97.12169,32.73149 -97.1217,32.73079 -97.12227,32.73078 -97.12327,32.73077 -97.12359,32.73077 -97.12356,32.7309 -97.12354,32.73101 -97.12353,32.73108 -97.12353,32.73114 -97.12353,32.73132 -97.12352,32.7315 -97.12352,32.7316 -97.12352,32.73197 -97.12353,32.73246 -97.12352,32.73296 -97.12352,32.7339 -97.12351,32.73431 -97.12303,32.73432 -97.12275,32.73432 -97.12251,32.73433 -97.12228,32.73435 -97.12218,32.73435 -97.12163,32.73434 -97.12164,32.73488 -97.12164,32.73501 -97.12163,32.7358 -97.1229,32.7358 -97.12352,32.73581 -97.12352,32.7353 -97.12352,32.73482 -97.12352,32.73463 -97.12351,32.73431 -97.12352,32.7339 -97.12352,32.73296 -97.12353,32.73246 -97.12352,32.73197 -97.12352,32.7316 -97.12352,32.7315 -97.12353,32.73132 -97.12353,32.73114 -97.12353,32.73108 -97.12354,32.73101 -97.12356,32.7309 -97.12359,32.73077 -97.12361,32.73071 -97.12364,32.7306 -97.12388,32.73063 -97.12394,32.73064 -97.12418,32.7307 -97.12462,32.7307 -97.12494,32.7307 -97.12514,32.73069 -97.12541,32.73069 -97.12705,32.7307 -97.12747,32.73069 -97.12751,32.73069 -97.12754,32.73067 -97.12758,32.73065 -97.1276,32.73063 -97.12761,32.73061 -97.12762,32.73059 -97.12763,32.73056 -97.12765,32.73028 -97.12765,32.73 -97.12764,32.72965 -97.12763,32.72877 -97.12763,32.72869 -97.12763,32.72866 -97.12762,32.72865 -97.12761,32.72862 -97.12759,32.72856 -97.12758,32.72845 -97.12758,32.72828 -97.12759,32.72789 -97.12759,32.72776 -97.1276,32.7263 -97.12762,32.72589 -97.12748,32.7259 -97.12737,32.72591 -97.12728,32.72592 -97.1272,32.72593 -97.12709,32.72596 -97.12704,32.72597 -97.127,32.72598 -97.12697,32.72599 -97.12685,32.72602 -97.12674,32.72604 -97.12664,32.72606 -97.12656,32.72607 -97.12645,32.72608 -97.12636,32.72609 -97.1263,32.72609 -97.12609,32.7261 -97.12579,32.7261 -97.12544,32.72609 -97.12534,32.72609 -97.12515,32.72609 -97.1249,32.72609 -97.12478,32.72609 -97.12452,32.72611 -97.1244,32.72612 -97.12433,32.72612 -97.12416,32.72612 -97.12413,32.72612 -97.12387,32.7261 -97.12369,32.72607 -97.12353,32.72604 -97.1234,32.72603 -97.12326,32.72601 -97.12317,32.72601 -97.1226,32.72601 -97.12093,32.72599 -97.12045,32.72598 -97.12026,32.72597 -97.12013,32.72597 -97.11991,32.72597 -97.11956,32.72596 -97.11916,32.72596 -97.11864,32.72594 -97.11858,32.72594 -97.11825,32.72592 -97.11803,32.72593 -97.11776,32.72596 -97.11754,32.72601 -97.11727,32.7261 -97.11705,32.72618 -97.11688,32.72628 -97.11676,32.72634 -97.1166,32.72646 -97.11649,32.72655 -97.11639,32.72663 -97.1163,32.72671 -97.11619,32.7268 -97.11616,32.72682 -97.11606,32.72689 -97.11599,32.72693 -97.11592,32.72697 -97.11581,32.72702 -97.11572,32.72705 -97.11562,32.72709 -97.11551,32.72713 -97.11543,32.72715 -97.11534,32.72717 -97.11525,32.72719 -97.11513,32.72721 -97.11494,32.72723 -97.11459,32.72724 -97.11459,32.72755 -97.11459,32.72762 -97.11459,32.72774 -97.11459,32.72784 -97.11459,32.72812 -97.11458,32.7284 -97.11458,32.729 -97.11458,32.72948 -97.11458,32.72949 -97.11456,32.73069 -97.11455,32.73184 -97.11455,32.73187 -97.11455,32.73252 -97.11455,32.73302 -97.11455,32.73326 -97.11455,32.7334 -97.11455,32.73357 -97.11454,32.73375 -97.1149,32.73378 -97.11506,32.73379 -97.11507,32.73379 -97.11529,32.73383 -97.1154,32.73386 -97.11555,32.7339 -97.11581,32.73399 -97.11626,32.73413 -97.1165,32.73419 -97.11658,32.73421 -97.11665,32.73423 -97.11672,32.73424 -97.11683,32.73426 -97.11716,32.73427 -97.11754,32.73427 -97.1178,32.73428 -97.11821,32.73428 -97.11907,32.7343 -97.12032,32.73432 -97.12042,32.73432 -97.1212,32.73433 -97.12163,32.73434 -97.12218,32.73435 -97.12228,32.73435 -97.12251,32.73433 -97.12275,32.73432 -97.12303,32.73432 -97.12351,32.73431 -97.12352,32.7339 -97.12352,32.73296 -97.12353,32.73246 -97.12352,32.73197 -97.12352,32.7316 -97.12352,32.7315 -97.12353,32.73132 -97.12353,32.73114 -97.12353,32.73108 -97.12354,32.73101 -97.12356,32.7309 -97.12359,32.73077 -97.12361,32.73071 -97.12364,32.7306 -97.12366,32.73035 -97.12367,32.73001 -97.12367,32.72959 -97.12367,32.72937 -97.12368,32.72839 -97.12368,32.72835 -97.12368,32.72814 -97.12368,32.72699 -97.12368,32.72676 -97.12368,32.72634 -97.12369,32.72607 -97.12353,32.72604 -97.1234,32.72603 -97.12326,32.72601 -97.12317,32.72601 -97.1226,32.72601 -97.12262,32.72444 -97.1237,32.72445 -97.12369,32.72465 -97.12369,32.7252 -97.12369,32.72551 -97.12369,32.72577 -97.12369,32.72607 -97.12368,32.72634 -97.12368,32.72676 -97.12368,32.72699 -97.12294,32.72698 -97.12238,32.72697 -97.12212,32.72697 -97.12194,32.72696 -97.1218,32.72697 -97.12172,32.72699 -97.12165,32.72701 -97.1216,32.72704 -97.12153,32.7271 -97.1214,32.72702 -97.12126,32.72695 -97.12115,32.72691 -97.12107,32.7269 -97.12098,32.72689 -97.12081,32.72688 -97.12063,32.72688 -97.12018,32.72687 -97.11986,32.72687 -97.11923,32.72686 -97.11868,32.72685 -97.11859,32.72685 -97.11852,32.72686 -97.11844,32.72687 -97.11835,32.72691 -97.11829,32.72695 -97.11824,32.72701 -97.11821,32.72707 -97.11819,32.72712 -97.11819,32.72721 -97.11817,32.72775 -97.11911,32.72775 -97.12018,32.72778 -97.12031,32.72779 -97.12047,32.72781 -97.12069,32.72785 -97.12095,32.72791 -97.12118,32.72797 -97.12114,32.72806 -97.12107,32.72823 -97.12102,32.72831 -97.12097,32.72839 -97.1209,32.72846 -97.12079,32.72854 -97.12064,32.72862 -97.12046,32.72868 -97.12025,32.72871 -97.1201,32.72874 -97.11991,32.72875 -97.11963,32.72876 -97.11941,32.72875 -97.11919,32.72874 -97.11892,32.72871 -97.11874,32.72867 -97.11856,32.72862 -97.11849,32.7286 -97.11841,32.72857 -97.11834,32.72853 -97.1183,32.7285 -97.11826,32.72846 -97.11823,32.72841 -97.1182,32.72836 -97.11818,32.72831 -97.11817,32.72825 -97.11816,32.7282 -97.11817,32.72775 -97.11911,32.72775 -97.12018,32.72778 -97.12031,32.72779 -97.12047,32.72781 -97.12069,32.72785 -97.12095,32.72791 -97.12118,32.72797 -97.12114,32.72806 -97.12107,32.72823 -97.12102,32.72831 -97.12097,32.72839 -97.1209,32.72846 -97.12079,32.72854 -97.12064,32.72862 -97.12046,32.72868 -97.12025,32.72871 -97.1201,32.72874 -97.12013,32.72885 -97.12018,32.72901 -97.12022,32.72915 -97.12025,32.72925 -97.12026,32.72934 -97.12027,32.72946 -97.11878,32.72956 -97.11874,32.72957 -97.11872,32.72958 -97.11869,32.7296 -97.11868,32.72962 -97.11867,32.72963 -97.11867,32.72965 -97.11867,32.72967 -97.11869,32.72993 -97.11875,32.73078 -97.11889,32.73079 -97.11896,32.73083 -97.11982,32.73082 -97.12028,32.73081 -97.1206,32.73079 -97.1217,32.73079 -97.12227,32.73078 -97.12327,32.73077 -97.12359,32.73077 -97.12356,32.7309 -97.12354,32.73101 -97.12353,32.73108 -97.12353,32.73114 -97.12353,32.73132 -97.12352,32.7315 -97.12352,32.7316 -97.12352,32.73197 -97.12353,32.73246 -97.12352,32.73296 -97.12352,32.7339 -97.12351,32.73431 -97.12303,32.73432 -97.12275,32.73432 -97.12251,32.73433 -97.12228,32.73435 -97.12218,32.73435 -97.12163,32.73434 -97.1212,32.73433 -97.12042,32.73432 -97.12032,32.73432 -97.11907,32.7343 -97.11821,32.73428 -97.1178,32.73428 -97.11754,32.73427 -97.11716,32.73427 -97.11683,32.73426 -97.11672,32.73424 -97.11665,32.73423 -97.11658,32.73421 -97.1165,32.73419 -97.11626,32.73413 -97.11632,32.73401 -97.11634,32.73395 -97.11636,32.73388 -97.11636,32.73384 -97.11637,32.73377 -97.11637,32.73365 -97.11637,32.73331 -97.11638,32.73321 -97.11638,32.73301 -97.11638,32.73269 -97.11638,32.73259 -97.11638,32.73229 -97.11638,32.73224 -97.11639,32.73202 -97.11639,32.73194 -97.1164,32.73141 -97.11641,32.73064 -97.11714,32.73063 -97.11757,32.73063 -97.1178,32.73064 -97.11793,32.73065 -97.11806,32.73067 -97.11814,32.73068 -97.11828,32.73071 -97.1185,32.73075 -97.11875,32.73078 -97.11889,32.73079 -97.11896,32.73083 -97.11982,32.73082 -97.12028,32.73081 -97.1206,32.73079 -97.1217,32.73079 -97.1217,32.73071 -97.12169,32.73039 -97.12168,32.73005 -97.12168,32.72983 -97.12167,32.72938 -97.12155,32.72935 -97.1215,32.72934 -97.12147,32.72934 -97.12027,32.72946 -97.11878,32.72956 -97.11874,32.72957 -97.11872,32.72958 -97.11869,32.7296 -97.11868,32.72962 -97.11867,32.72963 -97.11867,32.72965 -97.11867,32.72967 -97.11869,32.72993 -97.11875,32.73078 -97.1185,32.73075 -97.11828,32.73071 -97.11814,32.73068 -97.11806,32.73067 -97.11793,32.73065 -97.1178,32.73064 -97.11757,32.73063 -97.11714,32.73063 -97.11641,32.73064 -97.11639,32.73017 -97.11639,32.72951 -97.11639,32.72931 -97.1164,32.72888 -97.1164,32.72882 -97.1164,32.72872 -97.1164,32.72866 -97.1164,32.72861 -97.1164,32.72858 -97.1164,32.72855 -97.11639,32.72852 -97.11638,32.7285 -97.11636,32.72848 -97.11635,32.72846 -97.11633,32.72845 -97.11631,32.72844 -97.1163,32.72843 -97.11627,32.72843 -97.11623,32.72842 -97.11614,32.72842 -97.11599,32.72842 -97.1159,32.72842 -97.11508,32.72841 -97.11458,32.7284 -97.11459,32.72812 -97.11458,32.7284 -97.11458,32.729 -97.11458,32.72948 -97.11458,32.72949 -97.11456,32.73069 -97.11455,32.73184 -97.11455,32.73187 -97.11455,32.73252 -97.11455,32.73302 -97.11455,32.73326 -97.11455,32.7334 -97.11455,32.73357 -97.11454,32.73375 -97.11454,32.73426 -97.11454,32.73464 -97.11455,32.73497 -97.11455,32.73507 -97.11451,32.73513 -97.11449,32.73516 -97.11448,32.73519 -97.11448,32.73521 -97.11448,32.73529 -97.11449,32.73538 -97.11449,32.73571 -97.11448,32.73637 -97.11448,32.7364 -97.11447,32.73654 -97.11447,32.73655 -97.11445,32.7369 -97.11464,32.73691 -97.11465,32.73654 -97.11464,32.73642 -97.11464,32.73613 -97.11464,32.73583</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Directions from S Nedderman Dr, Arlington, TX 76010, USA to 762-798 Planetarium Pl, Arlington, TX 76013, USA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.1163,32.72841 -97.11629,32.72819 -97.11631,32.72814 -97.11644,32.72798 -97.11645,32.72795 -97.11643,32.72792 -97.11643,32.72785 -97.11645,32.72777 -97.11646,32.72773 -97.11646,32.72769 -97.11646,32.72765 -97.11646,32.72763 -97.11646,32.72761 -97.11646,32.72759 -97.11647,32.72756 -97.11649,32.72754 -97.1165,32.72751 -97.11652,32.72749 -97.11653,32.72746 -97.11653,32.72743 -97.11654,32.7274 -97.11654,32.72738 -97.11654,32.72735 -97.11653,32.72733 -97.11652,32.7273 -97.11651,32.72727 -97.1165,32.72725 -97.11649,32.72723 -97.11649,32.72721 -97.1165,32.72719 -97.11651,32.72717 -97.11653,32.72715 -97.11653,32.72713 -97.11653,32.72711 -97.11653,32.72709 -97.11653,32.72708 -97.11653,32.72706 -97.11653,32.72703 -97.11652,32.72701 -97.11651,32.72699 -97.11641,32.72693 -97.11634,32.72689 -97.11626,32.72685 -97.11619,32.7268 -97.11616,32.72682 -97.11606,32.72689 -97.11599,32.72693 -97.11592,32.72697 -97.11581,32.72702 -97.11572,32.72705 -97.11562,32.72709 -97.11551,32.72713 -97.11543,32.72715 -97.11534,32.72727 -97.11531,32.72731 -97.11527,32.72735 -97.11505,32.72753 -97.11496,32.7276 -97.11485,32.72767 -97.11483,32.72769 -97.1148,32.7277 -97.11478,32.72771 -97.11477,32.72772 -97.11459,32.72774 -97.11459,32.72784 -97.11459,32.72812 -97.1148,32.72807 -97.11486,32.72806 -97.11515,32.72799 -97.11522,32.72797 -97.11531,32.72796 -97.11535,32.72795 -97.1154,32.72795 -97.11546,32.72796 -97.11551,32.72797 -97.11564,32.728 -97.11573,32.72803 -97.11581,32.72808 -97.11588,32.72811 -97.11592,32.72814 -97.11601,32.72821 -97.11604,32.72824 -97.11609,32.72827 -97.11613,32.7283 -97.11616,32.72831 -97.11617,32.72833 -97.1162,32.72836 -97.11623,32.72842 -97.11614,32.72842 -97.11599,32.72842 -97.1159,32.72842 -97.11508,32.72841 -97.11458,32.7284 -97.11459,32.72812 -97.11459,32.72784 -97.11441,32.72781 -97.11439,32.72781 -97.11438,32.7278 -97.11436,32.7278 -97.11432,32.72776 -97.11421,32.72788 -97.11407,32.7278 -97.11393,32.72777 -97.11375,32.72773 -97.11359,32.7277 -97.11362,32.72762 -97.11344,32.72752 -97.11329,32.72744 -97.11314,32.72736 -97.11309,32.72734 -97.11303,32.72731 -97.11298,32.7273 -97.11293,32.72729 -97.11287,32.7273 -97.11283,32.7273 -97.11276,32.72731 -97.11252,32.72738 -97.1125,32.72739 -97.11248,32.7274 -97.11247,32.72741 -97.11242,32.72746 -97.11247,32.72747 -97.11263,32.7275 -97.11272,32.72752 -97.11284,32.72712 -97.11287,32.72701 -97.11297,32.72666 -97.11305,32.72668 -97.11324,32.72672 -97.11346,32.72678 -97.11359,32.72679 -97.11367,32.72679 -97.11387,32.72679 -97.11408,32.72679 -97.11418,32.72679 -97.1142,32.72686 -97.1142,32.72688 -97.11421,32.72689 -97.11423,32.72691 -97.11425,32.72692 -97.11429,32.72694 -97.11434,32.727 -97.11436,32.72702 -97.11437,32.72705 -97.11437,32.72706 -97.11438,32.72707 -97.11439,32.72708 -97.11441,32.72708 -97.11442,32.72709 -97.11458,32.72711 -97.11459,32.72724 -97.11459,32.72755 -97.11459,32.72762 -97.11459,32.72774 -97.11459,32.72784 -97.11441,32.72781 -97.11439,32.72781 -97.11438,32.7278 -97.11436,32.7278 -97.11432,32.72776 -97.11423,32.72766 -97.1142,32.72763 -97.11413,32.72759 -97.1141,32.72757 -97.11405,32.72756 -97.11402,32.72756 -97.11399,32.72756 -97.11384,32.72759 -97.11374,32.72761 -97.11372,32.72762 -97.1137,32.72762 -97.11368,32.72762 -97.11366,32.72762 -97.11365,32.72762 -97.11362,32.72762 -97.11359,32.7277 -97.11343,32.72767 -97.11327,32.72763 -97.1131,32.7276 -97.11295,32.72757 -97.11279,32.72754 -97.11272,32.72752 -97.11263,32.7275 -97.11247,32.72747 -97.11242,32.72746 -97.1123,32.72744 -97.11212,32.7274 -97.11205,32.72738 -97.11197,32.72728 -97.11195,32.72724 -97.11193,32.72721 -97.11192,32.72717 -97.11191,32.72712 -97.1119,32.72697 -97.11191,32.7269 -97.11176,32.72692 -97.11166,32.72693 -97.11108,32.72701 -97.11107,32.72723 -97.11128,32.72721 -97.11142,32.72721 -97.11149,32.7272 -97.11154,32.72719 -97.11163,32.72717 -97.11171,32.72713 -97.11177,32.7271 -97.11182,32.72706 -97.11185,32.72703 -97.1119,32.72697 -97.11191,32.72712 -97.11192,32.72717 -97.11193,32.72721 -97.11195,32.72724 -97.11197,32.72728 -97.11205,32.72738 -97.11195,32.72737 -97.11193,32.72789 -97.11179,32.72789 -97.11176,32.72789 -97.11162,32.72789 -97.11142,32.72787 -97.11106,32.72786 -97.11106,32.72801 -97.11113,32.72798 -97.11116,32.72797 -97.1112,32.72795 -97.11124,32.72795 -97.11128,32.72795 -97.11133,32.72796 -97.11137,32.72797 -97.11143,32.728 -97.1116,32.72808 -97.11163,32.72809 -97.11175,32.72812 -97.11176,32.72789 -97.11179,32.72789 -97.11193,32.72789 -97.11206,32.72789 -97.11207,32.72796 -97.11207,32.72798 -97.11207,32.72799 -97.11209,32.72805 -97.1121,32.72808 -97.1121,32.7281 -97.11211,32.7282 -97.11213,32.72823 -97.11213,32.72825 -97.11213,32.72828 -97.11213,32.72829 -97.1121,32.72839 -97.11175,32.72838 -97.11167,32.72838 -97.11168,32.72829 -97.11166,32.72825 -97.11165,32.72824 -97.11165,32.72822 -97.11165,32.7282 -97.11164,32.72816 -97.11164,32.72815 -97.1116,32.72808 -97.11163,32.72809 -97.11175,32.72812 -97.11189,32.72814 -97.11194,32.72814 -97.11199,32.72816 -97.11211,32.7282 -97.11213,32.72823 -97.11213,32.72825 -97.11213,32.72828 -97.11213,32.72829 -97.1121,32.72839 -97.11175,32.72838 -97.11176,32.72856 -97.11177,32.7286 -97.11179,32.72863 -97.1118,32.72865 -97.11183,32.72868 -97.1119,32.72875 -97.11196,32.72882 -97.11199,32.72884 -97.11203,32.72886 -97.11208,32.72888 -97.11219,32.72891 -97.11219,32.7292 -97.11267,32.7292 -97.11294,32.7292 -97.11298,32.72921 -97.113,32.72922 -97.11303,32.72923 -97.11306,32.72925 -97.11309,32.72926 -97.11312,32.72926 -97.11315,32.72926 -97.1133,32.72927 -97.11364,32.72927 -97.11389,32.72927 -97.11388,32.72959 -97.11435,32.72948 -97.11435,32.72932 -97.11435,32.7293 -97.11434,32.72928 -97.11432,32.72928 -97.11389,32.72927 -97.11364,32.72927 -97.1133,32.72927 -97.1133,32.72882 -97.11398,32.72883 -97.11401,32.72883 -97.11402,32.72883 -97.11403,32.72882 -97.11404,32.72881 -97.11404,32.7288 -97.11405,32.72879 -97.11405,32.72864 -97.11405,32.72858 -97.11405,32.7285 -97.11405,32.7284 -97.11377,32.7284 -97.1133,32.7284 -97.1133,32.72882 -97.1133,32.72927 -97.11328,32.73013 -97.11328,32.73015 -97.11316,32.73015 -97.1128,32.73014 -97.11265,32.73014 -97.11248,32.73014 -97.11236,32.73013 -97.11232,32.73013 -97.1123,32.73014 -97.11229,32.73013 -97.11226,32.73013 -97.11224,32.73012 -97.11222,32.73011 -97.11221,32.7301 -97.1122,32.73009 -97.11218,32.73008 -97.11218,32.73006 -97.11217,32.73004 -97.11217,32.73002 -97.11217,32.73 -97.11217,32.72999 -97.11218,32.72998 -97.11221,32.72993 -97.11225,32.72991 -97.11227,32.72991 -97.11229,32.72991 -97.11232,32.72991 -97.11235,32.72992 -97.11237,32.72992 -97.1124,32.72995 -97.11241,32.72996 -97.11242,32.72997 -97.11243,32.72999 -97.11243,32.73001 -97.11243,32.73003 -97.11243,32.73005 -97.11242,32.73007 -97.11241,32.73009 -97.1124,32.7301 -97.11236,32.73013 -97.11248,32.73014 -97.11251,32.73008 -97.11251,32.73006 -97.11251,32.73004 -97.11251,32.73002 -97.11251,32.72999 -97.11252,32.72999 -97.11252,32.72998 -97.11252,32.72997 -97.11253,32.72997 -97.11254,32.72997 -97.11255,32.72997 -97.11265,32.72997 -97.11265,32.73014 -97.11248,32.73014 -97.11251,32.73008 -97.11251,32.73006 -97.11251,32.73004 -97.11251,32.73002 -97.11251,32.72999 -97.11252,32.72999 -97.11252,32.72998 -97.11252,32.72997 -97.11253,32.72997 -97.11254,32.72997 -97.11255,32.72997 -97.11265,32.72997 -97.11265,32.72945 -97.11265,32.72943 -97.11265,32.72942 -97.11264,32.72942 -97.11263,32.72942 -97.1126,32.72941 -97.11248,32.72954 -97.11246,32.72956 -97.11244,32.72958 -97.11243,32.7296 -97.1124,32.72968 -97.11255,32.72968 -97.1124,32.72968 -97.11243,32.7296 -97.11244,32.72958 -97.11246,32.72956 -97.11248,32.72954 -97.1126,32.72941 -97.11248,32.72941 -97.11246,32.72941 -97.11245,32.72941 -97.11244,32.72941 -97.11243,32.72942 -97.11242,32.72942 -97.11241,32.72943</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Directions from 1105 S Davis Dr, Arlington, TX 76013, USA to 1089-1103 S Davis Dr, Arlington, TX 76013, USA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.12369,32.72607 -97.12368,32.72634 -97.12368,32.72676 -97.12368,32.72699 -97.12368,32.72814 -97.12368,32.72835 -97.12368,32.72839 -97.12367,32.72937 -97.12367,32.72959 -97.12367,32.73001 -97.12366,32.73035 -97.12364,32.7306 -97.12361,32.73071 -97.12329,32.73071 -97.12302,32.73071 -97.12227,32.73071 -97.1217,32.73071 -97.12169,32.73039 -97.12168,32.73005 -97.12168,32.72983 -97.12167,32.72938 -97.12155,32.72935 -97.1215,32.72934 -97.12147,32.72934 -97.12027,32.72946 -97.12026,32.72934 -97.12025,32.72925 -97.12022,32.72915 -97.12018,32.72901 -97.12013,32.72885 -97.1201,32.72874 -97.11991,32.72875 -97.11963,32.72876 -97.11941,32.72875 -97.11919,32.72874 -97.11892,32.72871 -97.11874,32.72867 -97.11856,32.72862 -97.11849,32.7286 -97.11841,32.72857 -97.11834,32.72853 -97.1183,32.7285 -97.11826,32.72846 -97.11823,32.72841 -97.1182,32.72836 -97.11818,32.72831 -97.11817,32.72825 -97.11816,32.7282 -97.11817,32.72775 -97.11911,32.72775 -97.12018,32.72778 -97.12031,32.72779 -97.12047,32.72781 -97.12069,32.72785 -97.12095,32.72791 -97.12118,32.72797 -97.12199,32.72818 -97.12217,32.72822 -97.12225,32.72823 -97.1223,32.72823 -97.12237,32.72822 -97.12246,32.7282 -97.12252,32.72817 -97.12256,32.72816 -97.12261,32.72814 -97.12267,32.72813 -97.12274,32.72813 -97.12302,32.72813 -97.12338,32.72813 -97.12368,32.72814 -97.12368,32.72699 -97.12294,32.72698 -97.12238,32.72697 -97.12212,32.72697 -97.12194,32.72696 -97.1218,32.72697 -97.12172,32.72699 -97.12165,32.72701 -97.1216,32.72704 -97.12153,32.7271 -97.12148,32.72715 -97.12145,32.72718 -97.12143,32.72723 -97.12118,32.72797 -97.12114,32.72806 -97.12107,32.72823 -97.12102,32.72831 -97.12097,32.72839 -97.1209,32.72846 -97.12079,32.72854 -97.12064,32.72862 -97.12046,32.72868 -97.12025,32.72871 -97.1201,32.72874 -97.11991,32.72875 -97.11963,32.72876 -97.11941,32.72875 -97.11919,32.72874 -97.11892,32.72871 -97.11874,32.72867 -97.11856,32.72862 -97.11849,32.7286 -97.11841,32.72857 -97.11834,32.72853 -97.1183,32.7285 -97.11826,32.72846 -97.11823,32.72841 -97.1182,32.72836 -97.11818,32.72831 -97.11817,32.72825 -97.11816,32.7282 -97.11817,32.72775 -97.11911,32.72775 -97.12018,32.72778 -97.12031,32.72779 -97.12047,32.72781 -97.12069,32.72785 -97.12095,32.72791 -97.12118,32.72797 -97.12199,32.72818 -97.12217,32.72822 -97.12225,32.72823 -97.1223,32.72823 -97.12237,32.72822 -97.12246,32.7282 -97.12252,32.72817 -97.12256,32.72816 -97.12261,32.72814 -97.12267,32.72813 -97.12274,32.72813 -97.12302,32.72813 -97.12338,32.72813 -97.12368,32.72814 -97.12368,32.72835 -97.12368,32.72839 -97.12367,32.72937 -97.12298,32.72937 -97.12237,32.72938 -97.122,32.72939 -97.1219,32.72939 -97.12179,32.72939 -97.12167,32.72938 -97.12155,32.72935 -97.1215,32.72934 -97.12147,32.72934 -97.12027,32.72946 -97.12026,32.72934 -97.12025,32.72925 -97.12022,32.72915 -97.12018,32.72901 -97.12013,32.72885 -97.1201,32.72874 -97.11991,32.72875 -97.11963,32.72876 -97.11941,32.72875 -97.11919,32.72874 -97.11892,32.72871 -97.11874,32.72867 -97.11856,32.72862 -97.11849,32.7286 -97.11841,32.72857 -97.11834,32.72853 -97.1183,32.7285 -97.11826,32.72846 -97.11823,32.72841 -97.1182,32.72836 -97.11818,32.72831 -97.11817,32.72825 -97.11816,32.7282 -97.11817,32.72775 -97.11819,32.72721 -97.11819,32.72712 -97.11821,32.72707 -97.11824,32.72701 -97.11829,32.72695 -97.11835,32.72691 -97.11844,32.72687 -97.11852,32.72686 -97.11859,32.72685 -97.11868,32.72685 -97.11923,32.72686 -97.11986,32.72687 -97.12018,32.72687 -97.12063,32.72688 -97.12081,32.72688 -97.12098,32.72689 -97.12107,32.7269 -97.12115,32.72691 -97.12126,32.72695 -97.1214,32.72702 -97.12153,32.7271 -97.1216,32.72704 -97.12165,32.72701 -97.12172,32.72699 -97.1218,32.72697 -97.12194,32.72696 -97.12212,32.72697 -97.12238,32.72697 -97.12294,32.72698 -97.12368,32.72699 -97.12368,32.72676 -97.12368,32.72634 -97.12369,32.72617</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Directions from 1001 S Cooper St, Arlington, TX 76010, USA to 701-799 Shady Ln, Arlington, TX 76013, USA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.11459,32.72733 -97.11459,32.72755 -97.11459,32.72762 -97.11459,32.72774 -97.11459,32.72784 -97.11459,32.72812 -97.11458,32.7284 -97.11508,32.72841 -97.1159,32.72842 -97.11599,32.72842 -97.11614,32.72842 -97.11623,32.72842 -97.11627,32.72843 -97.1163,32.72843 -97.11631,32.72844 -97.11633,32.72845 -97.11635,32.72846 -97.11636,32.72848 -97.11638,32.7285 -97.11639,32.72852 -97.1164,32.72855 -97.1164,32.72858 -97.1164,32.72861 -97.1164,32.72866 -97.1164,32.72872 -97.1164,32.72882 -97.1164,32.72888 -97.11639,32.72931 -97.11639,32.72951 -97.11639,32.73017 -97.11641,32.73064 -97.1164,32.73141 -97.11639,32.73194 -97.11639,32.73202 -97.11638,32.73224 -97.11638,32.73229 -97.11638,32.73259 -97.11638,32.73269 -97.11638,32.73301 -97.11638,32.73321 -97.11637,32.73331 -97.11637,32.73365 -97.11637,32.73377 -97.11636,32.73384 -97.11636,32.73388 -97.11634,32.73395 -97.11632,32.73401 -97.11626,32.73413 -97.1165,32.73419 -97.11658,32.73421 -97.11665,32.73423 -97.11672,32.73424 -97.11683,32.73426 -97.11716,32.73427 -97.11754,32.73427 -97.1178,32.73428 -97.11821,32.73428 -97.11907,32.7343 -97.12032,32.73432 -97.12042,32.73432 -97.1212,32.73433 -97.12163,32.73434 -97.12163,32.73408 -97.12165,32.73351 -97.12165,32.73341 -97.12165,32.73335 -97.12165,32.73316 -97.12166,32.73291 -97.12167,32.73267 -97.12167,32.73254 -97.12167,32.73239 -97.12167,32.73234 -97.12168,32.73198 -97.12169,32.73149 -97.1217,32.73079 -97.1217,32.73071 -97.12069,32.73072 -97.1206,32.73072 -97.1203,32.73074 -97.11986,32.73075 -97.11984,32.73075 -97.11924,32.73075 -97.11923,32.73075 -97.11896,32.73076 -97.11889,32.73079 -97.11875,32.73078 -97.1185,32.73075 -97.11828,32.73071 -97.11814,32.73068 -97.11806,32.73067 -97.11793,32.73065 -97.1178,32.73064 -97.11757,32.73063 -97.11714,32.73063 -97.11641,32.73064 -97.1164,32.73141 -97.11639,32.73194 -97.11639,32.73202 -97.11638,32.73224 -97.11638,32.73229 -97.11638,32.73259 -97.11638,32.73269 -97.11638,32.73301 -97.11638,32.73321 -97.11637,32.73331 -97.11637,32.73365 -97.11637,32.73377 -97.11636,32.73384 -97.11636,32.73388 -97.11634,32.73395 -97.11632,32.73401 -97.11626,32.73413 -97.1165,32.73419 -97.11658,32.73421 -97.11665,32.73423 -97.11672,32.73424 -97.11683,32.73426 -97.11675,32.73428 -97.11663,32.73429 -97.1165,32.7343 -97.11618,32.7343 -97.11626,32.73413 -97.11632,32.73401 -97.11634,32.73395 -97.11636,32.73388 -97.11636,32.73384 -97.11637,32.73377 -97.11637,32.73365 -97.11637,32.73331 -97.11638,32.73321 -97.11638,32.73301 -97.11638,32.73269 -97.11638,32.73259 -97.11638,32.73229 -97.11638,32.73224 -97.11639,32.73202 -97.11639,32.73194 -97.1164,32.73141 -97.11641,32.73064 -97.11714,32.73063 -97.11757,32.73063 -97.1178,32.73064 -97.11793,32.73065 -97.11806,32.73067 -97.11814,32.73068 -97.11828,32.73071 -97.1185,32.73075 -97.11875,32.73078 -97.11869,32.72993 -97.11867,32.72967 -97.11867,32.72965 -97.11867,32.72963 -97.11868,32.72962 -97.11869,32.7296 -97.11872,32.72958 -97.11874,32.72957 -97.11878,32.72956 -97.12027,32.72946 -97.12028,32.72984 -97.12028,32.72992 -97.12028,32.73002</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Directions from 1000-1098 UTA Blvd, Arlington, TX 76013, USA to 501 W Nedderman Dr, Arlington, TX 76013, USA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.12046,32.73432 -97.12042,32.73432 -97.12054,32.73385 -97.12056,32.73376 -97.12057,32.73372 -97.12057,32.73368 -97.12057,32.73364 -97.12059,32.73337 -97.12059,32.73333 -97.1206,32.73329 -97.12062,32.73323 -97.12078,32.73319 -97.12079,32.73285 -97.12079,32.73276 -97.1209,32.73276 -97.1209,32.73232 -97.1209,32.73177 -97.12091,32.73139 -97.12091,32.73131 -97.12091,32.73128 -97.12089,32.73126 -97.12086,32.73124 -97.12083,32.73122 -97.12078,32.73122 -97.1207,32.73122 -97.12064,32.73117 -97.12063,32.73115 -97.12062,32.73114 -97.12061,32.73111 -97.12061,32.73109 -97.12061,32.73085 -97.1206,32.73079 -97.12028,32.73081 -97.11982,32.73082 -97.11896,32.73083 -97.11895,32.731 -97.11894,32.73118 -97.11894,32.73128 -97.11894,32.7313 -97.11895,32.73131 -97.11896,32.73132 -97.11898,32.73133 -97.11901,32.73133 -97.12042,32.73134 -97.12044,32.73133 -97.12046,32.73133 -97.12047,32.73133 -97.12048,32.73132 -97.12048,32.73131 -97.12049,32.73129 -97.12048,32.73118 -97.11894,32.73118 -97.11895,32.731 -97.12036,32.731 -97.1204,32.731 -97.12044,32.731 -97.12046,32.73101 -97.12047,32.73102 -97.12048,32.73103 -97.12049,32.73105 -97.12049,32.73108 -97.12048,32.73118 -97.11894,32.73118 -97.11895,32.731 -97.11896,32.73083 -97.11982,32.73082 -97.12028,32.73081 -97.1206,32.73079 -97.12061,32.73085 -97.12061,32.73109 -97.12061,32.73111 -97.12062,32.73114 -97.12063,32.73115 -97.12064,32.73117 -97.1207,32.73122 -97.1207,32.73232 -97.12069,32.73276 -97.12079,32.73276 -97.1209,32.73276 -97.1209,32.73232 -97.12108,32.73232 -97.12111,32.73192 -97.12111,32.7319 -97.12111,32.73188 -97.12111,32.73187 -97.12109,32.73184 -97.12103,32.73181 -97.12099,32.7318 -97.1209,32.73177 -97.1209,32.73232 -97.12108,32.73232 -97.12109,32.73272 -97.12108,32.73273 -97.12107,32.73275 -97.12106,32.73276 -97.12105,32.73277 -97.12103,32.73277 -97.12102,32.73277 -97.121,32.73277 -97.1209,32.73276 -97.12079,32.73276 -97.12079,32.73285 -97.12078,32.73319 -97.12062,32.73323 -97.1206,32.73329 -97.12059,32.73333 -97.12059,32.73337 -97.12057,32.73364 -97.12057,32.73368 -97.12057,32.73372 -97.12056,32.73376 -97.12054,32.73385 -97.12042,32.73432 -97.12032,32.73432 -97.11907,32.7343 -97.11906,32.73449 -97.11906,32.73484 -97.11906,32.73505 -97.11904,32.73578 -97.11841,32.73578 -97.11818,32.73578 -97.1182,32.73504 -97.11821,32.73428 -97.1178,32.73428 -97.11754,32.73427 -97.11716,32.73427 -97.11683,32.73426 -97.11676,32.73505 -97.11675,32.73528 -97.11676,32.73576 -97.11612,32.73575 -97.11575,32.73573 -97.11574,32.73555 -97.11573,32.73553 -97.11573,32.73552 -97.11572,32.73552 -97.11571,32.73551 -97.11569,32.7355 -97.11548,32.73547 -97.11546,32.73547 -97.11543,32.73546 -97.1154,32.73545 -97.11539,32.73543 -97.11538,32.73542 -97.11537,32.73539 -97.11537,32.73537 -97.1154,32.73428 -97.11527,32.73428 -97.11514,32.73428 -97.11454,32.73426 -97.11454,32.73375 -97.11455,32.73357 -97.11472,32.73355 -97.11473,32.73355 -97.11474,32.73354 -97.11475,32.73354 -97.11476,32.73353 -97.11478,32.73351 -97.11479,32.7335 -97.1148,32.73349 -97.1148,32.73348 -97.11482,32.73344 -97.11482,32.73343 -97.11483,32.73342 -97.11486,32.73339 -97.11514,32.73339 -97.11529,32.73339 -97.11532,32.73339 -97.11534,32.73338 -97.11534,32.73337 -97.11535,32.73335 -97.11535,32.73333 -97.11536,32.73313 -97.11536,32.73312 -97.11536,32.73311 -97.11535,32.73309 -97.11534,32.73309 -97.11533,32.73308 -97.11532,32.73307 -97.11527,32.73305 -97.11493,32.73305 -97.11527,32.73305 -97.11526,32.73301 -97.11526,32.73298 -97.11526,32.7327 -97.11526,32.7326 -97.11526,32.73252 -97.1148,32.73252 -97.1148,32.73242 -97.11481,32.7324 -97.11481,32.73238 -97.11483,32.73236 -97.11485,32.73235 -97.11487,32.73235 -97.11526,32.73235 -97.11526,32.73228 -97.11526,32.73218 -97.11487,32.73219 -97.11486,32.73219 -97.11485,32.73218 -97.11484,32.73218 -97.11483,32.73218 -97.11482,32.73216 -97.11481,32.73215 -97.11481,32.73208 -97.11481,32.73206 -97.11482,32.73204 -97.11483,32.73204 -97.11483,32.73203 -97.11484,32.73203 -97.11486,32.73202 -97.11487,32.73202 -97.11527,32.73203 -97.11531,32.73198 -97.11534,32.73196 -97.11536,32.73195 -97.11537,32.73195 -97.11539,32.73195 -97.11586,32.73194 -97.11639,32.73194</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Directions from 723 Summit Ave, Arlington, TX 76013, USA to 415 Summit Ave, Arlington, TX 76013, USA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.12169,32.73039 -97.12128,32.7304 -97.12072,32.73041 -97.12069,32.73055 -97.12069,32.73072 -97.1206,32.73072 -97.1203,32.73074 -97.1203,32.73065 -97.12029,32.73064 -97.12029,32.73063 -97.12028,32.73063 -97.12027,32.73061 -97.12026,32.7306 -97.12025,32.73059 -97.12025,32.73058 -97.12025,32.73057 -97.12024,32.73027 -97.12024,32.73026 -97.12025,32.73025 -97.12025,32.73024 -97.12029,32.73019 -97.12068,32.73018 -97.12127,32.73017 -97.12128,32.73013 -97.12128,32.7301 -97.12129,32.73008 -97.12129,32.73004 -97.12127,32.72985 -97.12065,32.72988 -97.1206,32.72988 -97.12056,32.72988 -97.12042,32.72986 -97.12028,32.72984 -97.12028,32.72992 -97.12016,32.72992 -97.11971,32.72992 -97.11935,32.72992 -97.11881,32.72993 -97.11869,32.72993 -97.11875,32.73078 -97.1185,32.73075 -97.11828,32.73071 -97.11814,32.73068 -97.11814,32.73058 -97.11814,32.73056 -97.11815,32.73053 -97.11816,32.73048 -97.11817,32.73042 -97.11818,32.73039 -97.11818,32.73034 -97.11819,32.73025 -97.11819,32.73022 -97.11818,32.73018 -97.11815,32.73015 -97.11812,32.73011 -97.11808,32.73008 -97.11801,32.73005 -97.11796,32.73002 -97.11792,32.73001 -97.11785,32.72998 -97.11782,32.73001 -97.1178,32.73002 -97.11777,32.73004 -97.11774,32.73006 -97.11771,32.73007 -97.11769,32.73008 -97.11769,32.73009 -97.11768,32.73009 -97.11768,32.7301 -97.11767,32.73012 -97.11767,32.73014 -97.11767,32.73016 -97.11764,32.73022 -97.11756,32.73022 -97.11755,32.72989 -97.11754,32.72987 -97.11753,32.72986 -97.11752,32.72985 -97.11751,32.72984 -97.11748,32.72984 -97.11745,32.72984 -97.11738,32.72984 -97.11736,32.72984 -97.11735,32.72983 -97.11734,32.72982 -97.11734,32.72981 -97.11762,32.72967 -97.11757,32.72963 -97.11752,32.72959 -97.11743,32.72953 -97.1173,32.72946 -97.11718,32.7294 -97.11699,32.72933 -97.11693,32.72931 -97.11687,32.7293 -97.11673,32.72928 -97.11662,32.72935 -97.11656,32.72942 -97.11653,32.72944 -97.1165,32.72946 -97.11648,32.72947 -97.11646,32.72949 -97.11639,32.72951 -97.11639,32.72931 -97.1164,32.72888 -97.1164,32.72882 -97.11645,32.72884 -97.11646,32.72884 -97.11648,32.72885 -97.11649,32.72886 -97.1165,32.72887 -97.1165,32.72888 -97.11651,32.7289 -97.11652,32.72901 -97.11652,32.72903 -97.11653,32.72907 -97.11655,32.7291 -97.11661,32.72919 -97.11673,32.72928 -97.11687,32.7293 -97.11693,32.72931 -97.11699,32.72933 -97.11718,32.7294 -97.1173,32.72946 -97.11743,32.72953 -97.11752,32.72959 -97.11757,32.72963 -97.11762,32.72967 -97.11768,32.72975 -97.1177,32.72977 -97.11775,32.72985 -97.11785,32.72998 -97.11782,32.73001 -97.1178,32.73002 -97.11777,32.73004 -97.11774,32.73006 -97.11771,32.73007 -97.11769,32.73008 -97.11769,32.73009 -97.11768,32.73009 -97.11768,32.7301 -97.11767,32.73012 -97.11767,32.73014 -97.11767,32.73016 -97.11764,32.73022 -97.11756,32.73022 -97.11757,32.73035 -97.11757,32.73063 -97.11714,32.73063 -97.11641,32.73064 -97.11639,32.73017 -97.11561,32.73017 -97.1154,32.73017 -97.11537,32.73017 -97.11534,32.73017 -97.11531,32.73006 -97.1153,32.73004 -97.11527,32.73002 -97.11523,32.72999 -97.11521,32.72997 -97.11519,32.72996 -97.11517,32.72996 -97.11512,32.72995 -97.11511,32.73012 -97.11482,32.73011 -97.11482,32.73035 -97.11482,32.73036 -97.11482,32.73037 -97.11481,32.73038 -97.1148,32.73038 -97.11476,32.73039 -97.11475,32.73039 -97.11475,32.7304 -97.11474,32.73041 -97.11474,32.73042 -97.11474,32.73059 -97.11474,32.7306 -97.11474,32.73061 -97.11473,32.73062 -97.11472,32.73063 -97.11471,32.73064 -97.11469,32.73064 -97.11468,32.73064 -97.11456,32.73064 -97.11455,32.73064 -97.1145,32.73064 -97.11448,32.73064 -97.11448,32.73063 -97.11446,32.73061 -97.11443,32.73061 -97.11442,32.73061 -97.11441,32.7306 -97.11441,32.73059 -97.11438,32.73052 -97.11437,32.73051 -97.11437,32.7305 -97.11436,32.7305 -97.11435,32.7305 -97.11432,32.73049 -97.1143,32.73064 -97.1143,32.73068 -97.1143,32.7308 -97.11433,32.7308 -97.11435,32.7308 -97.11436,32.7308 -97.11437,32.73079 -97.11438,32.73079 -97.11438,32.73078 -97.11441,32.73073 -97.11441,32.73071 -97.11442,32.7307 -97.11443,32.7307 -97.11444,32.73069 -97.11447,32.73069 -97.11447,32.73068 -97.11448,32.73068 -97.11449,32.73067 -97.1145,32.73067 -97.11457,32.73067 -97.11471,32.73067 -97.11472,32.73068 -97.11473,32.73068 -97.11474,32.73069 -97.11474,32.7307 -97.11474,32.73072 -97.11474,32.73076 -97.11474,32.73081 -97.11474,32.73082 -97.11475,32.73082 -97.11475,32.73083 -97.11476,32.73083 -97.11477,32.73083 -97.11493,32.73083 -97.11494,32.73083 -97.11495,32.73083 -97.11496,32.73083 -97.11497,32.73082 -97.11497,32.73081 -97.11498,32.73076 -97.11498,32.73075 -97.11499,32.73074 -97.115,32.73074 -97.11531,32.73074 -97.11533,32.73074 -97.11534,32.73073 -97.11535,32.73072 -97.11535,32.73071 -97.11536,32.73065 -97.1156,32.73065 -97.11641,32.73064 -97.11639,32.73017 -97.11561,32.73017 -97.1154,32.73017 -97.11537,32.73017 -97.11534,32.73017 -97.11531,32.73006 -97.1153,32.73004 -97.11527,32.73002 -97.11523,32.72999 -97.11521,32.72997 -97.11519,32.72996 -97.11517,32.72996 -97.11512,32.72995 -97.11511,32.72992 -97.11511,32.72991 -97.1151,32.72989 -97.11482,32.72989 -97.11482,32.72966 -97.11482,32.72954 -97.11482,32.72947 -97.11478,32.72946 -97.11478,32.72945 -97.11477,32.72942 -97.11476,32.72942 -97.11474,32.72942 -97.11474,32.72948 -97.11472,32.72948 -97.11457,32.72949 -97.11444,32.7295 -97.11445,32.72955 -97.11445,32.72956 -97.11444,32.72956 -97.11444,32.72957 -97.11443,32.72957 -97.11442,32.72957 -97.11441,32.72957 -97.11441,32.72956 -97.1144,32.72956 -97.1144,32.72955 -97.1144,32.7295 -97.1144,32.72949 -97.11439,32.72948 -97.11438,32.72948 -97.11435,32.72948 -97.11388,32.72959 -97.11388,32.72968 -97.11386,32.72969 -97.11385,32.7297 -97.11384,32.72971 -97.11384,32.72973 -97.11384,32.72982 -97.11379,32.72982 -97.11377,32.72982 -97.11376,32.72983 -97.11375,32.72984 -97.11375,32.72985 -97.11375,32.72987 -97.11376,32.72988 -97.11377,32.72989 -97.11378,32.72991 -97.11401,32.73012 -97.11417,32.7303 -97.11433,32.73031 -97.11432,32.73049 -97.1143,32.73064 -97.1143,32.73068 -97.1143,32.7308 -97.11429,32.731 -97.11434,32.73099 -97.11435,32.73099 -97.11437,32.731 -97.11438,32.73101 -97.11439,32.73101 -97.11439,32.73103 -97.11438,32.73112 -97.11439,32.73112 -97.11439,32.73113 -97.1144,32.73113 -97.11441,32.73113 -97.11442,32.73112 -97.11442,32.73111 -97.11443,32.73081 -97.11443,32.73079 -97.11443,32.73077 -97.11445,32.73073 -97.11446,32.73071 -97.11447,32.73069 -97.11444,32.73069 -97.11443,32.7307 -97.11442,32.7307 -97.11441,32.73071 -97.11441,32.73073 -97.11438,32.73078 -97.11438,32.73079 -97.11437,32.73079 -97.11436,32.7308 -97.11435,32.7308 -97.11433,32.7308 -97.1143,32.7308 -97.1143,32.73068 -97.1143,32.73064 -97.11432,32.73049 -97.11435,32.7305 -97.11436,32.7305 -97.11437,32.7305 -97.11437,32.73051 -97.11438,32.73052 -97.11441,32.73059 -97.11441,32.7306 -97.11442,32.73061 -97.11443,32.73061 -97.11446,32.73061 -97.11444,32.73054 -97.11443,32.7305 -97.11444,32.73022 -97.11444,32.73019 -97.11443,32.73018 -97.11442,32.73018 -97.11441,32.73018 -97.11441,32.73019 -97.1144,32.73019 -97.1144,32.73029 -97.1144,32.7303 -97.11439,32.7303 -97.11439,32.73031 -97.11433,32.73031 -97.11434,32.73012 -97.11435,32.72983 -97.11435,32.72969 -97.11435,32.72948 -97.11435,32.72932 -97.11435,32.7293 -97.11434,32.72928 -97.11432,32.72928 -97.11389,32.72927 -97.11388,32.72959 -97.11388,32.72968 -97.11386,32.72969 -97.11385,32.7297 -97.11384,32.72971 -97.11384,32.72973 -97.11384,32.72982 -97.11379,32.72982 -97.11377,32.72982 -97.11376,32.72983 -97.11375,32.72984 -97.11375,32.72985 -97.11375,32.72987 -97.11376,32.72988 -97.11377,32.72989 -97.11378,32.72991 -97.11401,32.73012 -97.11417,32.7303 -97.11433,32.73031 -97.11432,32.73049 -97.1143,32.73064 -97.1143,32.73068 -97.1143,32.7308 -97.11429,32.731 -97.11428,32.7319 -97.11432,32.73191 -97.11433,32.73191 -97.11434,32.7319 -97.11435,32.7319 -97.11436,32.73189 -97.11436,32.73188 -97.11436,32.73185 -97.11437,32.73178 -97.11437,32.73177 -97.11438,32.73177 -97.11438,32.73176 -97.11439,32.73176 -97.1144,32.73176 -97.11441,32.73177 -97.11442,32.73177 -97.11442,32.73178 -97.11442,32.73179 -97.11442,32.73183 -97.11442,32.73184 -97.11443,32.73184 -97.11443,32.73185 -97.11444,32.73185 -97.11445,32.73185 -97.11447,32.73185 -97.11469,32.73187 -97.1147,32.73187 -97.11471,32.73188 -97.11472,32.73189 -97.11472,32.7319 -97.11471,32.73193 -97.11471,32.73194 -97.11472,32.73195 -97.11473,32.73195 -97.11473,32.73196 -97.11474,32.73196 -97.11475,32.73196 -97.11476,32.73195 -97.11476,32.73194 -97.11476,32.73193 -97.11476,32.73188 -97.11476,32.73187 -97.11477,32.73187 -97.11478,32.73186 -97.11479,32.73186 -97.1148,32.73187 -97.11481,32.73187 -97.11482,32.73188 -97.11485,32.73193 -97.11486,32.73194 -97.11488,32.73194 -97.1149,32.73195 -97.11503,32.73195 -97.11507,32.73195 -97.11512,32.73196 -97.11518,32.73198 -97.11527,32.73203 -97.11541,32.73212 -97.11556,32.73224 -97.11558,32.73226 -97.11561,32.73227 -97.11564,32.73227 -97.11567,32.73228 -97.11638,32.73229 -97.11638,32.73259 -97.11571,32.73259 -97.11526,32.7326 -97.11526,32.73252 -97.1148,32.73252 -97.11455,32.73252 -97.11455,32.73302 -97.11455,32.73326 -97.11455,32.7334 -97.11455,32.73357 -97.11472,32.73355 -97.11473,32.73355 -97.11474,32.73354 -97.11475,32.73354 -97.11476,32.73353 -97.11478,32.73351 -97.11479,32.7335 -97.1148,32.73349 -97.1148,32.73348 -97.11482,32.73344 -97.11482,32.73343 -97.11483,32.73342 -97.11486,32.73339 -97.11514,32.73339 -97.11515,32.73349 -97.11515,32.73351 -97.11516,32.73352 -97.11517,32.73354 -97.11519,32.73355 -97.11522,32.73356 -97.11524,32.73357 -97.11527,32.73357 -97.11552,32.73357 -97.11579,32.73357 -97.11586,32.73357 -97.11592,32.73358 -97.116,32.7336 -97.11605,32.73361 -97.11613,32.73362 -97.1162,32.73363 -97.11623,32.73363 -97.11629,32.73365 -97.11632,32.73365 -97.11637,32.73365 -97.11637,32.73331 -97.11561,32.73331 -97.11637,32.73331 -97.11638,32.73321 -97.11557,32.7332 -97.11638,32.73321 -97.11638,32.73301 -97.11583,32.73301 -97.1158,32.73301 -97.11577,32.733 -97.11575,32.73299 -97.11573,32.73297 -97.11572,32.73295 -97.11571,32.73291 -97.11571,32.73259 -97.11638,32.73259 -97.11638,32.73269 -97.11659,32.73269 -97.11666,32.73269 -97.11756,32.7327 -97.11759,32.73271 -97.11764,32.73272 -97.11766,32.73273 -97.11767,32.73273 -97.11768,32.73274 -97.11769,32.73276 -97.11769,32.73278 -97.11768,32.73288 -97.11768,32.73304 -97.11768,32.73319 -97.11769,32.73331 -97.11796,32.73332 -97.11796,32.73336 -97.11908,32.73338 -97.11908,32.73354 -97.11908,32.73371 -97.11908,32.7338 -97.11908,32.73387 -97.11908,32.73403 -97.11907,32.7343 -97.11906,32.73449 -97.11906,32.73484 -97.11906,32.73505 -97.11904,32.73578 -97.11841,32.73578 -97.11818,32.73578 -97.1182,32.73504 -97.11821,32.73428 -97.1178,32.73428 -97.1178,32.73401 -97.11796,32.73402 -97.11796,32.73385 -97.11796,32.73369 -97.11796,32.73352 -97.11796,32.73336 -97.11796,32.73332 -97.11796,32.7332 -97.11796,32.73303 -97.11796,32.73287 -97.11797,32.73276 -97.11797,32.73275 -97.11797,32.73274 -97.11799,32.73272 -97.11802,32.73271 -97.11804,32.73271 -97.11807,32.7327 -97.11879,32.73272 -97.11883,32.73272 -97.11885,32.73272 -97.11891,32.73274 -97.11895,32.73276 -97.11899,32.73279 -97.11909,32.73288 -97.11913,32.73288 -97.11915,32.73288 -97.11918,32.73289 -97.1192,32.73289 -97.11922,32.73291 -97.11924,32.73292 -97.11925,32.73294 -97.11927,32.73298 -97.11927,32.733 -97.11926,32.73322 -97.11938,32.73322 -97.11981,32.73322 -97.11983,32.73322 -97.11985,32.73322 -97.11986,32.73322 -97.11987,32.73322 -97.11987,32.73323 -97.11988,32.73324 -97.11992,32.73331 -97.11993,32.73332 -97.11995,32.73332 -97.11996,32.73333 -97.11999,32.73333 -97.12009,32.73332 -97.12009,32.73334</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Directions from 700 W Mitchell St, Arlington, TX 76013, USA to 1001 S Cooper St, Arlington, TX 76010, USA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.11463,32.72724 -97.11459,32.72724 -97.11412,32.72724 -97.1139,32.72722 -97.11362,32.72716 -97.11338,32.7271 -97.11319,32.72705 -97.11302,32.72701 -97.11292,32.72698 -97.11279,32.72696 -97.11268,32.72694 -97.11255,32.72693 -97.11245,32.72692 -97.11227,32.72691 -97.11218,32.7269 -97.11212,32.7269 -97.11204,32.7269 -97.11191,32.7269 -97.11176,32.72692 -97.11166,32.72693 -97.11108,32.72701 -97.1111,32.72664 -97.1111,32.72645 -97.1111,32.72639 -97.1111,32.72616 -97.1111,32.72565 -97.11111,32.7251 -97.11222,32.72511 -97.11254,32.72511 -97.11287,32.72511 -97.11386,32.72513 -97.11461,32.72514 -97.1146,32.7257 -97.11459,32.72639 -97.11459,32.72666 -97.11458,32.72711 -97.11459,32.72666 -97.11459,32.72639 -97.1146,32.7257 -97.11461,32.72514 -97.11461,32.72482 -97.11461,32.72438 -97.11461,32.72425 -97.11461,32.72388 -97.11462,32.72362 -97.11462,32.72341 -97.11462,32.72328 -97.11463,32.72303 -97.11464,32.72275 -97.11464,32.72253 -97.11447,32.72251 -97.11364,32.7225 -97.11321,32.72251 -97.11289,32.72251 -97.1123,32.72251 -97.11157,32.72249 -97.11116,32.72249 -97.11114,32.72336 -97.11114,32.72386 -97.11111,32.7251 -97.11076,32.7251 -97.10998,32.72508 -97.10941,32.72507 -97.10885,32.72506 -97.10883,32.72617 -97.10882,32.72633 -97.10882,32.72643 -97.10882,32.7267 -97.1088,32.72719 -97.10878,32.72757 -97.109,32.72746 -97.10914,32.72741 -97.10924,32.72737 -97.10941,32.72731 -97.10968,32.72723 -97.10995,32.72719 -97.11108,32.72701 -97.1111,32.72664 -97.1111,32.72645 -97.1111,32.72639 -97.1111,32.72616 -97.1111,32.72565 -97.11111,32.7251 -97.11076,32.7251 -97.10998,32.72508 -97.10999,32.72385 -97.11002,32.72248 -97.11005,32.7211 -97.111,32.7211 -97.11118,32.72111 -97.11189,32.72113 -97.11232,32.72114 -97.1123,32.72251 -97.11157,32.72249 -97.11116,32.72249 -97.11114,32.72336 -97.11114,32.72386 -97.10999,32.72385 -97.10888,32.72383 -97.1089,32.72276 -97.1089,32.72245 -97.11002,32.72248 -97.11058,32.72248 -97.11081,32.72249 -97.11116,32.72249 -97.11157,32.72249 -97.1123,32.72251 -97.11289,32.72251 -97.11321,32.72251 -97.11364,32.7225 -97.11447,32.72251 -97.11464,32.72253 -97.11465,32.72211 -97.11465,32.72191 -97.11466,32.72157 -97.11466,32.72144 -97.11466,32.72118 -97.11499,32.72119 -97.1151,32.72119 -97.11499,32.72119 -97.11466,32.72118 -97.11466,32.72144 -97.11466,32.72157 -97.11465,32.72191 -97.11465,32.72211 -97.11464,32.72253 -97.11464,32.72275 -97.11463,32.72303 -97.11462,32.72328 -97.11462,32.72341 -97.11462,32.72362 -97.11461,32.72388 -97.11461,32.72425 -97.11461,32.72438 -97.11461,32.72482 -97.11461,32.72514 -97.1146,32.7257 -97.11459,32.72639 -97.11459,32.72666 -97.11458,32.72711 -97.11459,32.72724 -97.11459,32.72733</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Directions from 698 W Park Row Dr, Arlington, TX 76010, USA to 705 W Park Row Dr, Arlington, TX 76013, USA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.11466,32.72118 -97.11418,32.72117 -97.11407,32.72117 -97.11391,32.72117 -97.11379,32.72116 -97.1137,32.72117 -97.11353,32.72117 -97.1132,32.72116 -97.11256,32.72115 -97.11232,32.72114 -97.11189,32.72113 -97.11118,32.72111 -97.111,32.7211 -97.11005,32.7211 -97.10951,32.72109 -97.10891,32.72109 -97.10891,32.72056 -97.10974,32.72056 -97.10986,32.72054 -97.1099,32.72054 -97.10992,32.72054 -97.10996,32.72055 -97.11008,32.72057 -97.11006,32.72066 -97.11005,32.72069 -97.11005,32.72072 -97.11004,32.72075 -97.11004,32.72078 -97.11004,32.72083 -97.11004,32.72091 -97.11005,32.7211 -97.10951,32.72109 -97.10891,32.72109 -97.10891,32.72166 -97.10891,32.72179 -97.1089,32.72202 -97.1089,32.72245 -97.1089,32.72276 -97.10888,32.72383 -97.10886,32.72457 -97.10885,32.72506 -97.10883,32.72617 -97.10882,32.72633 -97.10882,32.72643 -97.10882,32.7267 -97.1088,32.72719 -97.10878,32.72757 -97.10878,32.72789 -97.10878,32.72832 -97.10877,32.72891 -97.10877,32.72916 -97.10876,32.72965 -97.10876,32.72992 -97.10875,32.73013 -97.10875,32.73081 -97.10875,32.7311 -97.10873,32.73207 -97.10873,32.73265 -97.10872,32.73295 -97.10871,32.73311 -97.10871,32.73334 -97.1087,32.73345 -97.10868,32.73354 -97.10865,32.73362 -97.10862,32.73374 -97.10852,32.73391 -97.1085,32.73396 -97.10844,32.73412 -97.10843,32.73419 -97.10843,32.73425 -97.10842,32.73429 -97.10839,32.73496 -97.10836,32.73545 -97.10839,32.73496 -97.10959,32.73501 -97.10956,32.73563 -97.11032,32.73564 -97.11077,32.73564 -97.11119,32.73565 -97.11142,32.73565 -97.11171,32.73566 -97.11211,32.73566 -97.11288,32.73567 -97.11348,32.73569 -97.11412,32.7357 -97.11449,32.73571 -97.11464,32.73571 -97.11463,32.73531 -97.11463,32.73522 -97.11462,32.73516 -97.1146,32.73512 -97.11455,32.73507 -97.11455,32.73497 -97.11454,32.73464 -97.11454,32.73426 -97.11454,32.73375 -97.11413,32.73375 -97.11454,32.73375 -97.1149,32.73378 -97.11506,32.73379 -97.11507,32.73379 -97.11529,32.73383 -97.1154,32.73386 -97.11555,32.7339 -97.11581,32.73399 -97.11626,32.73413 -97.1165,32.73419 -97.11658,32.73421 -97.11665,32.73423 -97.11672,32.73424 -97.11683,32.73426 -97.11716,32.73427 -97.11754,32.73427 -97.1178,32.73428 -97.11821,32.73428 -97.11907,32.7343 -97.12032,32.73432 -97.12042,32.73432 -97.1212,32.73433 -97.12163,32.73434 -97.12218,32.73435 -97.12228,32.73435 -97.12251,32.73433 -97.12275,32.73432 -97.12303,32.73432 -97.12351,32.73431 -97.12352,32.7339 -97.12352,32.73296 -97.12353,32.73246 -97.12352,32.73197 -97.12352,32.7316 -97.12352,32.7315 -97.12353,32.73132 -97.12353,32.73114 -97.12353,32.73108 -97.12354,32.73101 -97.12356,32.7309 -97.12359,32.73077 -97.12361,32.73071 -97.12364,32.7306 -97.12388,32.73063 -97.12394,32.73064 -97.12418,32.7307 -97.12462,32.7307 -97.12494,32.7307 -97.12514,32.73069 -97.12541,32.73069 -97.12705,32.7307 -97.12747,32.73069 -97.12751,32.73069 -97.12754,32.73067 -97.12758,32.73065 -97.1276,32.73063 -97.12761,32.73061 -97.12762,32.73059 -97.12763,32.73056 -97.12765,32.73028 -97.12765,32.73 -97.12764,32.72965 -97.12763,32.72877 -97.12763,32.72869 -97.12763,32.72866 -97.12762,32.72865 -97.12761,32.72862 -97.12759,32.72856 -97.12758,32.72845 -97.12758,32.72828 -97.12759,32.72789 -97.12759,32.72776 -97.1276,32.7263 -97.12762,32.72589 -97.12748,32.7259 -97.12737,32.72591 -97.12728,32.72592 -97.1272,32.72593 -97.12709,32.72596 -97.12704,32.72597 -97.127,32.72598 -97.12697,32.72599 -97.12685,32.72602 -97.12674,32.72604 -97.12664,32.72606 -97.12656,32.72607 -97.12645,32.72608 -97.12636,32.72609 -97.1263,32.72609 -97.12609,32.7261 -97.12579,32.7261 -97.12544,32.72609 -97.12534,32.72609 -97.12515,32.72609 -97.1249,32.72609 -97.12478,32.72609 -97.12452,32.72611 -97.1244,32.72612 -97.12433,32.72612 -97.12416,32.72612 -97.12413,32.72612 -97.12387,32.7261 -97.12369,32.72607 -97.12353,32.72604 -97.1234,32.72603 -97.12326,32.72601 -97.12317,32.72601 -97.1226,32.72601 -97.12093,32.72599 -97.12045,32.72598 -97.12026,32.72597 -97.12013,32.72597 -97.11991,32.72597 -97.11956,32.72596 -97.11916,32.72596 -97.11864,32.72594 -97.11858,32.72594 -97.11825,32.72592 -97.11803,32.72593 -97.11776,32.72596 -97.11754,32.72601 -97.11727,32.7261 -97.11705,32.72618 -97.11688,32.72628 -97.11676,32.72634 -97.1166,32.72646 -97.11649,32.72655 -97.11639,32.72663 -97.1163,32.72671 -97.11619,32.7268 -97.11616,32.72682 -97.11606,32.72689 -97.11599,32.72693 -97.11592,32.72697 -97.11581,32.72702 -97.11572,32.72705 -97.11562,32.72709 -97.11551,32.72713 -97.11543,32.72715 -97.11534,32.72717 -97.11525,32.72719 -97.11513,32.72721 -97.11494,32.72723 -97.11459,32.72724 -97.11458,32.72711 -97.11459,32.72666 -97.11459,32.72639 -97.1146,32.7257 -97.11461,32.72514 -97.11461,32.72482 -97.11461,32.72438 -97.11461,32.72425 -97.11461,32.72388 -97.11462,32.72362 -97.11462,32.72341 -97.11462,32.72328 -97.11463,32.72303 -97.11464,32.72275 -97.11464,32.72253 -97.11465,32.72211 -97.11465,32.72191 -97.11466,32.72157 -97.11466,32.72144 -97.11466,32.72118 -97.11474,32.72118</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Directions from 601 W Nedderman Dr, Arlington, TX 76013, USA to 801-829 Greek Row Dr, Arlington, TX 76013, USA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.1164,32.73141 -97.1166,32.73142 -97.11661,32.73142 -97.11663,32.73142 -97.11664,32.73143 -97.11665,32.73143 -97.11665,32.73144 -97.11665,32.73145 -97.11666,32.73146 -97.11665,32.73147 -97.11664,32.73156 -97.11663,32.73166 -97.11663,32.73174 -97.11663,32.73195 -97.11662,32.73202 -97.11663,32.73206 -97.11665,32.7322 -97.11666,32.73225 -97.11666,32.73226 -97.11667,32.73227 -97.11667,32.73228 -97.11668,32.73229 -97.11671,32.73231 -97.11676,32.73235 -97.11679,32.73237 -97.11682,32.73239 -97.11683,32.73242 -97.11685,32.73244 -97.11685,32.73247 -97.11686,32.73252 -97.11687,32.73252 -97.11688,32.73252 -97.1169,32.73252 -97.11691,32.73252 -97.11693,32.73252 -97.11708,32.73249 -97.11716,32.73248 -97.11723,32.73247 -97.11741,32.73248 -97.11743,32.73247 -97.11744,32.73247 -97.11747,32.73246 -97.11753,32.73242 -97.11756,32.73241 -97.11758,32.7324 -97.11763,32.7324 -97.11796,32.7324 -97.11835,32.73241 -97.11841,32.73241 -97.11865,32.73241 -97.11904,32.73243 -97.11903,32.73262 -97.11903,32.73277 -97.11903,32.73278 -97.11903,32.73279 -97.11904,32.73279 -97.11905,32.73279 -97.11907,32.73279 -97.11936,32.7328 -97.11937,32.7328 -97.11938,32.7328 -97.11938,32.73281 -97.11938,32.73282 -97.11938,32.73283 -97.11938,32.73322 -97.11937,32.73331 -97.11937,32.73332 -97.11938,32.73333 -97.11939,32.73333 -97.1194,32.73333 -97.11941,32.73334 -97.11954,32.73334 -97.11955,32.73334 -97.11956,32.73334 -97.11956,32.73335 -97.11957,32.73335 -97.11957,32.73336 -97.11957,32.73341 -97.11956,32.73364 -97.11956,32.73366 -97.11956,32.73367 -97.11957,32.73368 -97.11958,32.73369 -97.11967,32.73379 -97.11968,32.7338 -97.11968,32.73381 -97.11969,32.73382 -97.11969,32.73383 -97.11968,32.73385 -97.11968,32.73398 -97.11968,32.73399 -97.11969,32.734 -97.11969,32.73401 -97.1197,32.73403 -97.1197,32.73404 -97.11971,32.73405 -97.11971,32.73406 -97.1197,32.73408 -97.11969,32.73412 -97.11968,32.73413 -97.11968,32.73414 -97.11968,32.73416 -97.11968,32.73421 -97.11968,32.73422 -97.11969,32.73422 -97.11971,32.73422 -97.11973,32.73423 -97.11999,32.73423 -97.12033,32.73423 -97.12032,32.73432 -97.12032,32.73442 -97.12032,32.73444 -97.12032,32.73445 -97.12033,32.73446 -97.12034,32.73447 -97.12037,32.73447 -97.1212,32.7345 -97.1212,32.73433 -97.12042,32.73432 -97.12032,32.73432 -97.12033,32.73423 -97.12036,32.7339 -97.12026,32.73388 -97.12024,32.73388 -97.12023,32.73387 -97.12022,32.73386 -97.1202,32.73383 -97.1202,32.73381 -97.12018,32.73373 -97.12016,32.73367 -97.12015,32.73366 -97.12014,32.73364 -97.12012,32.73359 -97.1201,32.73356 -97.12009,32.73352 -97.12009,32.73348 -97.12009,32.73338 -97.12009,32.73332 -97.12007,32.73318 -97.11993,32.73279 -97.11988,32.73265 -97.11987,32.73263 -97.11986,32.73261 -97.11981,32.73254 -97.11974,32.73248 -97.1197,32.73245 -97.11961,32.7324 -97.11952,32.73237 -97.11948,32.73235 -97.11942,32.73231 -97.11937,32.73226 -97.1193,32.73216 -97.11927,32.7321 -97.11926,32.73206 -97.1192,32.73181 -97.11918,32.73177 -97.11915,32.73172 -97.11912,32.73169 -97.11909,32.73166 -97.11902,32.73162 -97.11898,32.7316 -97.11894,32.73158 -97.11884,32.73154 -97.11873,32.73147 -97.11867,32.73143 -97.1185,32.73131 -97.11843,32.73122 -97.11839,32.73116 -97.11835,32.73108 -97.11833,32.73102 -97.11831,32.73097 -97.11829,32.73088 -97.11828,32.73071 -97.1185,32.73075 -97.11875,32.73078 -97.11889,32.73079 -97.11896,32.73083 -97.11982,32.73082 -97.12028,32.73081 -97.1206,32.73079 -97.12061,32.73085 -97.12061,32.73109 -97.12061,32.73111 -97.12062,32.73114 -97.12063,32.73115 -97.12064,32.73117 -97.1207,32.73122 -97.12078,32.73122 -97.12083,32.73122 -97.12086,32.73124 -97.12089,32.73126 -97.12091,32.73128 -97.12091,32.73131 -97.12091,32.73139 -97.12119,32.73138 -97.1212,32.73124 -97.12121,32.7312 -97.12122,32.73111 -97.12123,32.7309 -97.12123,32.73089 -97.12123,32.73088 -97.12122,32.73088 -97.12122,32.73087 -97.12121,32.73087 -97.1212,32.73086 -97.12119,32.73086 -97.12117,32.73086 -97.121,32.73088 -97.12095,32.73088 -97.1209,32.73088 -97.12086,32.73087 -97.12076,32.73086 -97.12072,32.73086 -97.12068,32.73085 -97.12061,32.73085 -97.1206,32.73079 -97.1217,32.73079 -97.12169,32.73149 -97.12168,32.73198 -97.12167,32.73234 -97.12108,32.73232 -97.12111,32.73192 -97.12111,32.7319 -97.12111,32.73188 -97.12111,32.73187 -97.12109,32.73184 -97.12116,32.73179 -97.1212,32.73177 -97.12124,32.73176 -97.12129,32.73174 -97.12134,32.73173 -97.12138,32.73172 -97.12142,32.73171 -97.12148,32.73171 -97.12152,32.73171 -97.12156,32.73171 -97.12157,32.73171 -97.12158,32.73171 -97.12159,32.7317 -97.12159,32.73169 -97.1216,32.73168 -97.1216,32.73166 -97.1216,32.7316 -97.12159,32.73154 -97.12159,32.73152 -97.1216,32.73149 -97.1216,32.73147 -97.12162,32.73143 -97.12163,32.73142 -97.12163,32.73141 -97.12163,32.7314 -97.12162,32.73139 -97.12161,32.73139 -97.1216,32.73139 -97.12158,32.73138 -97.12119,32.73138 -97.12091,32.73139 -97.1209,32.73177 -97.12099,32.7318 -97.12103,32.73181 -97.12109,32.73184 -97.12111,32.73187 -97.12111,32.73188 -97.12111,32.7319 -97.12111,32.73192 -97.12108,32.73232 -97.12167,32.73234 -97.12168,32.73198 -97.12169,32.73149 -97.12352,32.7315 -97.12352,32.7316 -97.12352,32.73197 -97.12315,32.73197 -97.1226,32.73198 -97.12168,32.73198 -97.12167,32.73234 -97.12167,32.73239 -97.12184,32.73238 -97.12187,32.73238 -97.12188,32.73238 -97.1219,32.73239 -97.12191,32.7324 -97.12192,32.73241 -97.12192,32.73242 -97.12193,32.73244 -97.12192,32.73255 -97.12222,32.73256 -97.12223,32.73256 -97.12225,32.73255 -97.12227,32.73254 -97.12228,32.73253 -97.12228,32.73251 -97.12229,32.73249 -97.12229,32.73228 -97.12229,32.73225 -97.1223,32.73224 -97.1223,32.73223 -97.12232,32.73222 -97.12234,32.73221 -97.12235,32.7322 -97.12238,32.7322 -97.1225,32.73222 -97.12262,32.73223 -97.12265,32.73223 -97.1227,32.73223 -97.12273,32.73222 -97.12278,32.7322 -97.12291,32.73214 -97.12298,32.73211 -97.12303,32.73208 -97.12307,32.73205 -97.12315,32.73197 -97.1226,32.73198 -97.12168,32.73198 -97.12167,32.73234 -97.12167,32.73239 -97.12184,32.73238 -97.12187,32.73238 -97.12188,32.73238 -97.1219,32.73239 -97.12191,32.7324 -97.12192,32.73241 -97.12192,32.73242 -97.12193,32.73244 -97.12192,32.73255 -97.12222,32.73256 -97.12223,32.73256 -97.12225,32.73255 -97.12227,32.73254 -97.12228,32.73253 -97.12228,32.73251 -97.12229,32.73249 -97.12229,32.73228 -97.12229,32.73225 -97.1223,32.73224 -97.1223,32.73223 -97.12232,32.73222 -97.12234,32.73221 -97.12235,32.7322 -97.12238,32.7322 -97.1225,32.73222 -97.12248,32.73258 -97.1225,32.73222 -97.12238,32.7322 -97.12235,32.7322 -97.12234,32.73221 -97.12232,32.73222 -97.1223,32.73223 -97.1223,32.73224 -97.12229,32.73225 -97.12229,32.73228 -97.12229,32.73249 -97.12228,32.73251 -97.12228,32.73253 -97.12227,32.73254 -97.12225,32.73255 -97.12223,32.73256 -97.12222,32.73256 -97.12192,32.73255 -97.12167,32.73254 -97.12167,32.73267 -97.12223,32.73266 -97.12167,32.73267 -97.12166,32.73291 -97.12184,32.73292 -97.1222,32.73292 -97.12226,32.73293 -97.1224,32.73295 -97.12242,32.73295 -97.12245,32.73295 -97.12247,32.73294 -97.12249,32.73293 -97.1225,32.73292 -97.1225,32.7329 -97.12251,32.73288 -97.12251,32.73265 -97.12251,32.73288 -97.1225,32.7329 -97.1225,32.73292 -97.12249,32.73293 -97.12247,32.73294 -97.12245,32.73295 -97.12242,32.73295 -97.1224,32.73295 -97.12226,32.73293 -97.1222,32.73292 -97.12184,32.73292 -97.12183,32.73341 -97.12236,32.73341 -97.12183,32.73341 -97.12165,32.73341 -97.12165,32.73335 -97.12141,32.73335 -97.1212,32.73335 -97.12109,32.73335 -97.12108,32.73335 -97.12107,32.73335 -97.12107,32.73336 -97.12106,32.73336 -97.12106,32.73337 -97.12105,32.73339 -97.12099,32.73352 -97.12097,32.73355 -97.12095,32.73358 -97.12088,32.73365 -97.12083,32.73369 -97.12078,32.73372 -97.12077,32.73373 -97.12072,32.73374 -97.12054,32.73385 -97.12056,32.73376 -97.12057,32.73372 -97.12057,32.73368 -97.12057,32.73364 -97.12049,32.73364 -97.12048,32.73364 -97.12047,32.73365 -97.12047,32.73367 -97.12047,32.73369 -97.12046,32.7337 -97.12046,32.73371 -97.12044,32.73372 -97.12043,32.73372 -97.12041,32.73373 -97.12039,32.73373 -97.12037,32.73372 -97.12035,32.73372 -97.12024,32.73368 -97.12019,32.73367 -97.12015,32.73366 -97.12014,32.73364 -97.12012,32.73359 -97.1201,32.73356 -97.12009,32.73352 -97.12009,32.73348 -97.12009,32.73338 -97.12009,32.73332 -97.12007,32.73318 -97.12011,32.73316 -97.12013,32.73315 -97.12014,32.73315 -97.12016,32.73314 -97.12019,32.73314 -97.12021,32.73314 -97.12024,32.73314 -97.12026,32.73314 -97.12027,32.73314 -97.12029,32.73315 -97.12031,32.73316 -97.12032,32.73317 -97.12034,32.73317 -97.12037,32.73318 -97.12041,32.73318 -97.12051,32.73318 -97.12052,32.73318 -97.12054,32.73318 -97.12062,32.73323 -97.12078,32.73319 -97.12099,32.73319 -97.12102,32.73319 -97.12105,32.73319 -97.12107,32.7332 -97.12109,32.73319 -97.12111,32.73319 -97.12115,32.73319 -97.12119,32.73319 -97.12123,32.73319 -97.12128,32.7332 -97.12131,32.7332 -97.12134,32.7332 -97.12137,32.7332 -97.12139,32.73319 -97.12142,32.73318 -97.12146,32.73316 -97.12148,32.73315 -97.1215,32.73315 -97.12154,32.73315 -97.12165,32.73316 -97.12166,32.73291 -97.12155,32.73292 -97.12153,32.73292 -97.12149,32.73293 -97.12148,32.73293 -97.12147,32.73293 -97.12146,32.73293 -97.12146,32.73292 -97.12139,32.73287 -97.12138,32.73286 -97.12137,32.73286 -97.12136,32.73286 -97.12126,32.73286 -97.12093,32.73285 -97.12079,32.73285 -97.12064,32.73285 -97.12047,32.73284 -97.12028,32.73284 -97.1202,32.73284 -97.12014,32.73284 -97.12009,32.73284 -97.12008,32.73284 -97.12007,32.73283 -97.12005,32.73282 -97.12002,32.73279 -97.12,32.73279 -97.11999,32.73278 -97.11998,32.73278 -97.11997,32.73278 -97.11996,32.73278 -97.11993,32.73279 -97.11988,32.73265 -97.11987,32.73263 -97.11986,32.73261 -97.11981,32.73254 -97.11987,32.73251 -97.11989,32.7325 -97.11992,32.7325 -97.11995,32.7325 -97.11998,32.7325 -97.12004,32.7325 -97.11998,32.7325 -97.11995,32.7325 -97.11992,32.7325 -97.11989,32.7325 -97.11987,32.73251 -97.11981,32.73254 -97.11974,32.73248 -97.1197,32.73245 -97.11961,32.7324 -97.11977,32.73232 -97.11978,32.73232 -97.11981,32.7323 -97.11983,32.73228 -97.11984,32.73226 -97.11985,32.73225 -97.11987,32.7322 -97.11985,32.73225 -97.11984,32.73226 -97.11983,32.73228 -97.11981,32.7323 -97.11978,32.73232 -97.11977,32.73232 -97.11961,32.7324 -97.11956,32.73243 -97.11953,32.73245 -97.11951,32.73246 -97.11948,32.73247 -97.11945,32.73247 -97.11943,32.73248 -97.11941,32.73247 -97.11938,32.73247 -97.11932,32.73245 -97.11929,32.73244 -97.11926,32.73244 -97.11923,32.73243 -97.11904,32.73243 -97.11865,32.73241 -97.11841,32.73241 -97.11842,32.73234 -97.11843,32.7323 -97.11843,32.73225 -97.11849,32.7316 -97.11866,32.73159 -97.1187,32.73158 -97.11873,32.73158 -97.11877,32.73157 -97.11884,32.73154 -97.11894,32.73158 -97.11898,32.7316 -97.11902,32.73162 -97.11909,32.73166 -97.11912,32.73169 -97.11915,32.73172 -97.11918,32.73177 -97.1192,32.73181 -97.11926,32.73206 -97.11927,32.7321 -97.1193,32.73216 -97.11937,32.73226 -97.11942,32.73231 -97.11948,32.73235 -97.11952,32.73237 -97.11961,32.7324 -97.11956,32.73243 -97.11953,32.73245 -97.11951,32.73246 -97.11948,32.73247 -97.11945,32.73247 -97.11943,32.73248 -97.11941,32.73247 -97.11938,32.73247 -97.11932,32.73245 -97.11929,32.73244 -97.11926,32.73244 -97.11923,32.73243 -97.11904,32.73243 -97.11903,32.73262 -97.11777,32.7326 -97.11773,32.7326 -97.1177,32.73259 -97.11767,32.73258 -97.1176,32.73254 -97.11754,32.7325 -97.11747,32.73246 -97.11744,32.73247 -97.11743,32.73247 -97.11741,32.73248 -97.11723,32.73247 -97.11716,32.73248 -97.11708,32.73249 -97.11693,32.73252 -97.11691,32.73252 -97.1169,32.73252 -97.11688,32.73252 -97.11687,32.73252 -97.11686,32.73252 -97.11682,32.73251 -97.1168,32.7325 -97.11654,32.73236 -97.11638,32.73229 -97.11638,32.73224 -97.11639,32.73202 -97.11639,32.73194 -97.1164,32.73141 -97.11641,32.73064 -97.11714,32.73063 -97.11714,32.7308 -97.11714,32.73117 -97.11714,32.73119 -97.11713,32.73121 -97.11712,32.73122 -97.11711,32.73124 -97.11709,32.73124 -97.11707,32.73125 -97.11695,32.73124 -97.11678,32.73124 -97.11679,32.73079 -97.11696,32.73079 -97.11708,32.73079</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Directions from 301-399 S Cooper St, Arlington, TX 76013, USA to 300 S Cooper St, Arlington, TX 76013, USA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.11454,32.73381 -97.11454,32.73375 -97.11413,32.73375 -97.11393,32.73374 -97.11347,32.73373 -97.11322,32.73373 -97.11289,32.73371 -97.11212,32.7337 -97.11214,32.73294 -97.11214,32.73278 -97.11214,32.73265 -97.11215,32.7326 -97.11215,32.73223 -97.11215,32.7321 -97.11162,32.73209 -97.11149,32.73209 -97.11101,32.73208 -97.11101,32.73223 -97.111,32.73237 -97.111,32.73251 -97.111,32.73263 -97.11099,32.73301 -97.11096,32.73369 -97.11137,32.7337 -97.11212,32.7337 -97.11289,32.73371 -97.11288,32.73498 -97.11288,32.7352 -97.11288,32.73539 -97.11288,32.73567 -97.11211,32.73566 -97.11171,32.73566 -97.11142,32.73565 -97.11119,32.73565 -97.11077,32.73564 -97.11077,32.73528 -97.11079,32.73505 -97.11081,32.7347 -97.11082,32.7346 -97.11083,32.73438 -97.11085,32.73408 -97.11088,32.73369 -97.11035,32.7337 -97.11013,32.73371 -97.10965,32.73373 -97.10919,32.73375 -97.10862,32.73374 -97.10852,32.73391 -97.1085,32.73396 -97.10844,32.73412 -97.10843,32.73419 -97.10843,32.73425 -97.10842,32.73429 -97.10839,32.73496 -97.10959,32.73501 -97.11018,32.73503 -97.11079,32.73505 -97.11081,32.7347 -97.11082,32.7346 -97.11083,32.73438 -97.11085,32.73408 -97.11088,32.73369 -97.11096,32.73369 -97.11099,32.73301 -97.111,32.73263 -97.111,32.73251 -97.111,32.73237 -97.11101,32.73223 -97.11101,32.73208 -97.11039,32.73208 -97.10987,32.73207 -97.1093,32.73207 -97.10903,32.73206 -97.10873,32.73207 -97.10873,32.73265 -97.10873,32.73207 -97.10817,32.73205 -97.10817,32.73236 -97.10817,32.73205 -97.10873,32.73207 -97.10873,32.73265 -97.10872,32.73295 -97.10871,32.73311 -97.10871,32.73334 -97.1087,32.73345 -97.10868,32.73354 -97.10865,32.73362 -97.10862,32.73374 -97.10919,32.73375 -97.10965,32.73373 -97.10966,32.73365 -97.10966,32.73359 -97.10968,32.73354 -97.10972,32.73348 -97.10976,32.73341 -97.1098,32.73336 -97.10983,32.73331 -97.10984,32.73328 -97.10985,32.73325 -97.10985,32.73323 -97.10985,32.73321 -97.10986,32.73314 -97.10986,32.73302 -97.10986,32.73291 -97.10987,32.73251 -97.10987,32.73207 -97.1093,32.73207 -97.10903,32.73206 -97.10873,32.73207 -97.10875,32.7311 -97.10875,32.73081 -97.10875,32.73013 -97.10876,32.72992 -97.10876,32.72965 -97.10877,32.72916 -97.10944,32.72918 -97.10992,32.72918 -97.11008,32.72918 -97.11089,32.7292 -97.11105,32.7292 -97.11104,32.73015 -97.11053,32.73015 -97.10989,32.73014 -97.10992,32.72918 -97.10992,32.72837 -97.10993,32.72789 -97.10994,32.72761 -97.10994,32.72751 -97.10995,32.72719 -97.10968,32.72723 -97.10941,32.72731 -97.10924,32.72737 -97.10914,32.72741 -97.109,32.72746 -97.10878,32.72757 -97.1088,32.72719 -97.10882,32.7267 -97.10882,32.72643 -97.10882,32.72633 -97.10883,32.72617 -97.10885,32.72506 -97.10941,32.72507 -97.10998,32.72508 -97.11076,32.7251 -97.11111,32.7251 -97.1111,32.72565 -97.1111,32.72616 -97.1111,32.72639 -97.1111,32.72645 -97.1111,32.72664 -97.11108,32.72701 -97.11107,32.72723 -97.11106,32.72786 -97.11106,32.72801 -97.11106,32.72836 -97.11106,32.72849 -97.11105,32.72898 -97.11105,32.7292 -97.11089,32.7292 -97.11008,32.72918 -97.10992,32.72918 -97.10944,32.72918 -97.10877,32.72916 -97.10876,32.72965 -97.10876,32.72992 -97.10875,32.73013 -97.10875,32.73081 -97.10875,32.7311 -97.10873,32.73207 -97.10873,32.73265 -97.10873,32.73207 -97.10875,32.7311 -97.10875,32.73081 -97.10875,32.73013 -97.10876,32.72992 -97.10876,32.72965 -97.10877,32.72916 -97.10877,32.72891 -97.10878,32.72832 -97.10878,32.72789 -97.10878,32.72757 -97.109,32.72746 -97.10914,32.72741 -97.10924,32.72737 -97.10941,32.72731 -97.10968,32.72723 -97.10995,32.72719 -97.11108,32.72701 -97.11107,32.72723 -97.11106,32.72786 -97.11106,32.72801 -97.11106,32.72836 -97.11153,32.72837 -97.11167,32.72838 -97.11175,32.72838 -97.1121,32.72839 -97.1122,32.72839 -97.11219,32.72854 -97.11219,32.72891 -97.11219,32.7292 -97.1122,32.72937 -97.1122,32.72962 -97.11219,32.72968 -97.11219,32.72985 -97.11219,32.72987 -97.11221,32.72993 -97.11225,32.72991 -97.11227,32.72991 -97.11229,32.72991 -97.11232,32.72991 -97.11235,32.72992 -97.11237,32.72992 -97.1124,32.72995 -97.11241,32.72996 -97.11242,32.72997 -97.11243,32.72999 -97.11243,32.73001 -97.11243,32.73003 -97.11243,32.73005 -97.11242,32.73007 -97.11241,32.73009 -97.1124,32.7301 -97.11236,32.73013 -97.11232,32.73013 -97.1123,32.73014 -97.11229,32.73013 -97.11226,32.73013 -97.11224,32.73012 -97.11222,32.73011 -97.11221,32.7301 -97.1122,32.73009 -97.11218,32.73008 -97.11218,32.73006 -97.11217,32.73004 -97.11217,32.73002 -97.11217,32.73 -97.11217,32.72999 -97.11218,32.72998 -97.11221,32.72993 -97.11219,32.72987 -97.11219,32.72985 -97.11219,32.72968 -97.1122,32.72962 -97.1122,32.72937 -97.11219,32.7292 -97.11219,32.72891 -97.11219,32.72854 -97.1122,32.72839 -97.1133,32.7284 -97.11377,32.7284 -97.11405,32.7284 -97.11458,32.7284 -97.11458,32.729 -97.11458,32.72948 -97.11458,32.72949 -97.11456,32.73069 -97.11455,32.73184 -97.11455,32.73187 -97.11455,32.73252 -97.11455,32.73302 -97.11455,32.73326 -97.11455,32.7334 -97.11455,32.73357 -97.11454,32.73375 -97.11454,32.73386</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>UV1_P</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Roadsv3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-97.119866,32.730745 -97.119863,32.730734 -97.119858,32.730726 -97.11985,32.730717 -97.119845,32.73071 -97.119835,32.730697 -97.119827,32.730688 -97.119819,32.730677 -97.119811,32.730671 -97.119801,32.730666 -97.119786,32.730662 -97.119779,32.730659 -97.119769,32.730653 -97.119773,32.730645 -97.119776,32.730638 -97.119776,32.730628 -97.119776,32.730619 -97.119781,32.730607 -97.119783,32.730599 -97.119783,32.730588 -97.119783,32.730577 -97.119783,32.730571 -97.119783,32.730558 -97.119782,32.730547 -97.11978,32.730539 -97.11978,32.730528 -97.11978,32.730518 -97.11978,32.730507 -97.119782,32.730501 -97.119787,32.730491 -97.119787,32.730482 -97.119787,32.730468 -97.119787,32.730457 -97.119787,32.730445 -97.119787,32.730432 -97.119777,32.730432 -97.119762,32.730433 -97.119752,32.730433</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>playinggrounds.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00ff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00ff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00ff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00ff55</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Playing_grounds</name>
+		<open>1</open>
+		<Placemark>
+			<name>Tennis Center</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.12019424390924,32.73145239608867,0 -97.11926784512563,32.73168810911509,0 -97.1195049233858,32.73233037991252,0 -97.11983265741263,32.7322509711629,0 -97.11981467003415,32.73211828777853,0 -97.11993270132044,32.73209812731262,0 -97.1200394397795,32.73205538259516,0 -97.1201066657727,32.73217455203871,0 -97.12041892097743,32.73211057489078,0 -97.12019424390924,32.73145239608867,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Maverick Stadium</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.12755137508238,32.72952002400598,0 -97.12754011895837,32.72933957364812,0 -97.12760603065685,32.72932929627407,0 -97.12760783955574,32.72910916766328,0 -97.12753081547881,32.72910929784619,0 -97.1275263294181,32.72894135981072,0 -97.12683894152225,32.72894591536664,0 -97.12685019239301,32.72841668415853,0 -97.12636746644499,32.72841857681934,0 -97.12630129722894,32.72842530573519,0 -97.12625163574946,32.7284356005943,0 -97.12618955226701,32.72846322660647,0 -97.12613578479291,32.7284871340353,0 -97.12610681962286,32.72851471567143,0 -97.12605294955846,32.7285699925386,0 -97.12600729271335,32.72862887043323,0 -97.12596987510032,32.72871235268455,0 -97.12595740906538,32.72893969647222,0 -97.12589896185241,32.7289395172219,0 -97.12570195523048,32.72893530449962,0 -97.12569346253633,32.72950614876921,0 -97.12595747674806,32.72952654007477,0 -97.12596169431042,32.72976307113872,0 -97.12599940374844,32.72982307825497,0 -97.12603294341199,32.7298866800825,0 -97.12608325411964,32.72995024406342,0 -97.1261377209787,32.72998540545946,0 -97.12621312424234,32.7300311170989,0 -97.12629679267388,32.73005543085504,0 -97.12684166193399,32.73005159234707,0 -97.12684354322467,32.72952636965181,0 -97.12755137508238,32.72952002400598,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MAC</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11847193404586,32.73213602264048,0 -97.1184629306766,32.7319780025352,0 -97.11843130320337,32.73188539438279,0 -97.11841522763307,32.73177087067715,0 -97.11804609310104,32.73176750672344,0 -97.11804354934,32.73143962490616,0 -97.11798692488382,32.7313719680855,0 -97.11797779264819,32.73119022539101,0 -97.11722905093463,32.7311803920695,0 -97.11722330858351,32.73144561457976,0 -97.11666887080625,32.73145574306,0 -97.11667949000646,32.73184138094116,0 -97.11660735028914,32.73185006910599,0 -97.11658304724772,32.73203696056509,0 -97.11663883944316,32.73206603221838,0 -97.11671139923448,32.73224754733086,0 -97.11684280428354,32.73228871320814,0 -97.11685375405158,32.73218914983644,0 -97.11709116815617,32.7321924344959,0 -97.11710180652491,32.73229371231253,0 -97.11752689854032,32.73226942246662,0 -97.11752742493816,32.73237757566469,0 -97.11800607852236,32.73243881657288,0 -97.11801662278231,32.7323278311421,0 -97.11841270835832,32.73233509215965,0 -97.11847193404586,32.73213602264048,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Physical Education Building</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11810568188533,32.73081323374625,0 -97.11787918960053,32.73081080486963,0 -97.11787484357556,32.73076588895783,0 -97.11725874981156,32.73075235331605,0 -97.11725568011528,32.73112580938774,0 -97.1178705857271,32.7311393861089,0 -97.11787454915694,32.7311108331669,0 -97.1180999605278,32.73111706499072,0 -97.11810568188533,32.73081323374625,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>College Park Center</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.10853216464749,32.73100162931715,0 -97.10851618507786,32.73074710305486,0 -97.10861558858731,32.73075308312826,0 -97.10862737588593,32.73024909735161,0 -97.10864044741135,32.73019067287273,0 -97.10860240774534,32.73015984189532,0 -97.10860125893798,32.72976816570851,0 -97.10814062783592,32.72975555663764,0 -97.10811048284646,32.72984359287688,0 -97.10804504569475,32.72983143063267,0 -97.10802261268199,32.73004490642848,0 -97.10784328219981,32.73004276412677,0 -97.10782996074595,32.72995027613381,0 -97.10770364230788,32.72995135845084,0 -97.10767505722484,32.73004079239901,0 -97.10743929115995,32.73018492663416,0 -97.1074657795064,32.73034032178049,0 -97.10747049423424,32.73042511439234,0 -97.10752839556977,32.73043976545145,0 -97.10749090489631,32.73069159349274,0 -97.10778277336259,32.7309439270627,0 -97.10779245426761,32.73099125327038,0 -97.10786501319566,32.73101265855764,0 -97.10853216464749,32.73100162931715,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
